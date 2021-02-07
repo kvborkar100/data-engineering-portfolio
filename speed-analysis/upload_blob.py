@@ -8,7 +8,7 @@ os.chdir(file_dir)
 files = os.listdir()
 
 
-connection_string = "BlobEndpoint=https://practiceblobs.blob.core.windows.net/;QueueEndpoint=https://practiceblobs.queue.core.windows.net/;FileEndpoint=https://practiceblobs.file.core.windows.net/;TableEndpoint=https://practiceblobs.table.core.windows.net/;SharedAccessSignature=sv=2019-12-12&ss=b&srt=sco&sp=rwdlacx&se=2021-05-31T13:58:19Z&st=2021-02-07T05:58:19Z&spr=https,http&sig=VfLJiusCvuIg0yY7LR7qgfC7Oyz3v%2B%2BUlu1WkhWB8Q0%3D"
+connection_string = "Your_Account_String_Here"
 
 container_name = "files"
 
