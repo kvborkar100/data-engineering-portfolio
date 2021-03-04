@@ -1,0 +1,1001 @@
+Invoice Number,Invoice Date,Payment Terms,Invoice Currency,Company Name,Line Number,Item Name,Quantity,Amount,Total Amount,VAT,Invoice Amount
+CC2134,10-Feb-2020,14,INR,Layo,1,Water - Spring Water 500ml,8,825,6600,20,7920
+CC4411,12-Apr-2020,79,INR,Miboo,1,Bag Stand,8,1312,10496,20,12595.2
+CB2114,21-Dec-2020,36,INR,Gabtype,1,Chocolate Bar - Coffee Crisp,3,2809,8427,20,10112.4
+CA4314,30-May-2020,76,INR,Edgeify,1,Ecolab - Hobart Upr Prewash Arm,5,1953,9765,20,11718
+CA1444,18-Feb-2020,60,INR,Abata,1,Beef - Tenderloin - Aa,3,428,1284,20,1540.8
+CB4241,18-Feb-2020,32,INR,Kwinu,1,Fudge - Cream Fudge,9,347,3123,20,3747.6
+CC4442,24-Aug-2020,47,INR,Jabberbean,1,Beans - Fava Fresh,7,925,6475,20,7770
+AB3241,04-Apr-2020,13,INR,Meezzy,1,Pepper - Jalapeno,4,1503,6012,20,7214.4
+AC4443,16-Jan-2021,69,INR,Yodel,1,"Beans - Turtle, Black, Dry",6,2259,13554,20,16264.8
+CC1312,06-Jan-2020,32,INR,Voomm,1,Garbage Bags - Black,10,277,2770,20,3324
+BB4141,27-Oct-2020,28,INR,Oozz,1,Truffle - Whole Black Peeled,3,783,2349,20,2818.8
+AB2313,08-Sep-2020,51,INR,Feedspan,1,Lambcasing,8,2148,17184,20,20620.8
+CB4424,28-Feb-2020,53,INR,Photospace,1,Cloves - Ground,6,2388,14328,20,17193.6
+CC4244,24-Feb-2020,33,INR,Meedoo,1,Veal - Slab Bacon,4,2369,9476,20,11371.2
+AA3144,14-Jan-2021,12,INR,Mynte,1,Soup - French Onion,9,753,6777,20,8132.4
+CC4414,31-Jan-2021,65,INR,Dabshots,1,Mustard - Pommery,4,642,2568,20,3081.6
+AC4441,06-Nov-2020,8,INR,Nlounge,1,Syrup - Monin - Granny Smith,9,2780,25020,20,30024
+CB4334,29-Jan-2021,38,INR,Tagtune,1,Beef - Bresaola,6,1370,8220,20,9864
+AC4343,16-Apr-2020,63,INR,Wikido,1,"Lemonade - Island Tea, 591 Ml",10,2317,23170,20,27804
+BC4444,19-Jan-2020,41,INR,Thoughtworks,1,Chef Hat 20cm,2,2233,4466,20,5359.2
+AA1444,02-Mar-2021,9,INR,Buzzster,1,"Sole - Dover, Whole, Fresh",2,2576,5152,20,6182.4
+CB4434,19-Aug-2020,69,INR,Skipfire,1,Gelatine Leaves - Bulk,8,1799,14392,20,17270.4
+CB1444,21-May-2020,50,INR,Gabcube,1,"Dill - Primerba, Paste",4,2301,9204,20,11044.8
+CC4444,29-May-2020,51,INR,Gigaclub,1,Frangelico,7,1862,13034,20,15640.8
+CC4143,29-Oct-2020,34,INR,Gevee,1,Sherry - Dry,5,860,4300,20,5160
+BB4334,28-Sep-2020,11,INR,Photospace,1,Wine - Riesling Alsace Ac 2001,6,1947,11682,20,14018.4
+AA4424,23-Jul-2020,30,INR,Gabvine,1,Gatorade - Orange,5,937,4685,20,5622
+BC4143,11-Sep-2020,25,INR,Gigashots,1,Carbonated Water - Strawberry,9,1133,10197,20,12236.4
+CB4114,03-Apr-2020,10,INR,Jatri,1,"Lemonade - Black Cherry, 591 Ml",6,2590,15540,20,18648
+CA1233,28-Feb-2020,89,INR,Topdrive,1,Yogurt - French Vanilla,2,1108,2216,20,2659.2
+CB4141,23-May-2020,25,INR,Nlounge,1,Bagel - 12 Grain Preslice,6,2416,14496,20,17395.2
+CC4444,19-Jan-2020,75,INR,Miboo,1,Tomato - Plum With Basil,2,2441,4882,20,5858.4
+AC3143,06-Apr-2020,56,INR,Tambee,1,Wine - Chardonnay South,3,508,1524,20,1828.8
+AC3443,31-Mar-2020,71,INR,Geba,1,Sauce - Salsa,7,1612,11284,20,13540.8
+CB4433,21-Feb-2021,80,INR,Shuffletag,1,Wine - Malbec Trapiche Reserve,10,2448,24480,20,29376
+AB4442,17-Jan-2021,10,INR,Vinte,1,"Sauce - Soya, Light",1,525,525,20,630
+CB4412,25-Jun-2020,70,INR,Realmix,1,Coffee - Hazelnut Cream,6,2395,14370,20,17244
+AC3433,22-Feb-2020,7,INR,Roomm,1,Cookie - Oatmeal,6,1438,8628,20,10353.6
+CC4442,02-Oct-2020,90,INR,Photobug,1,Wine - Magnotta - Pinot Gris Sr,6,2682,16092,20,19310.4
+AC4333,21-Mar-2021,18,INR,Talane,1,Longos - Burritos,6,524,3144,20,3772.8
+CB4344,02-Jan-2020,9,INR,Voonix,1,"Soup - Campbells, Beef Barley",8,861,6888,20,8265.6
+AC2314,05-Sep-2020,61,INR,Vinder,1,Coffee - Frthy Coffee Crisp,10,2987,29870,20,35844
+BB4233,12-Mar-2020,10,INR,Quaxo,1,Onions - Red Pearl,1,2805,2805,20,3366
+BC4432,27-Feb-2021,25,INR,Zoomcast,1,"Bread - Pumpernickle, Rounds",1,2887,2887,20,3464.4
+AB2343,27-Mar-2020,77,INR,Riffpedia,1,"Corn - Cream, Canned",4,1455,5820,20,6984
+CA3222,24-May-2020,39,INR,Twimm,1,Carbonated Water - Lemon Lime,6,250,1500,20,1800
+CC4333,15-Jun-2020,10,INR,Tagcat,1,"Bread - Multigrain, Loaf",4,1149,4596,20,5515.2
+BB4424,09-Nov-2020,8,INR,Zooveo,1,"Crab - Dungeness, Whole",9,623,5607,20,6728.4
+CA4342,28-Oct-2020,58,INR,Vinte,1,Fondant - Icing,8,2816,22528,20,27033.6
+BC4331,09-Feb-2020,67,INR,Chatterbridge,1,Tea - Green,9,907,8163,20,9795.6
+AC4334,25-Jun-2020,66,INR,Kaymbo,1,Snails - Large Canned,6,2170,13020,20,15624
+CC3414,06-Dec-2020,63,INR,Roomm,1,Wine - Guy Sage Touraine,6,571,3426,20,4111.2
+AC4431,15-Mar-2021,22,INR,DabZ,1,Grapes - Green,1,1396,1396,20,1675.2
+AC4423,06-Feb-2020,8,INR,Realpoint,1,Turnip - Mini,4,1163,4652,20,5582.4
+CC4244,15-Feb-2021,45,INR,Babbleopia,1,Longos - Grilled Chicken With,9,968,8712,20,10454.4
+CC4434,29-Feb-2020,24,INR,Brainsphere,1,Onions - Green,1,2120,2120,20,2544
+CC1343,31-Oct-2020,67,INR,BlogXS,1,"Yogurt - Strawberry, 175 Gr",7,215,1505,20,1806
+CB1314,09-Oct-2020,75,INR,Livefish,1,Kiwi,4,1830,7320,20,8784
+AB4141,05-Feb-2021,72,INR,Zooxo,1,Beef - Top Butt Aaa,9,1633,14697,20,17636.4
+AA1433,29-Dec-2020,83,INR,Yambee,1,Shrimp - Black Tiger 6 - 8,5,2022,10110,20,12132
+CC4134,04-May-2020,33,INR,Flashpoint,1,Celery Root,7,2661,18627,20,22352.4
+AC4334,06-Nov-2020,26,INR,Katz,1,Cognac - Courvaisier,8,877,7016,20,8419.2
+CC4344,26-Jan-2020,88,INR,Buzzdog,1,Guinea Fowl,7,1663,11641,20,13969.2
+AC4433,23-Feb-2020,77,INR,Vidoo,1,Burger Veggie,3,462,1386,20,1663.2
+AC2444,21-Oct-2020,75,INR,Flashdog,1,Sprouts - Pea,7,2206,15442,20,18530.4
+BC4444,21-Oct-2020,55,INR,Realblab,1,Swiss Chard - Red,10,2140,21400,20,25680
+BC4443,17-Aug-2020,60,INR,Skimia,1,Lid - 16 Oz And 32 Oz,1,1732,1732,20,2078.4
+BC4434,04-Aug-2020,82,INR,Roombo,1,Cookie Dough - Chunky,3,2083,6249,20,7498.8
+CA3441,10-Mar-2021,55,INR,Flipstorm,1,Milk - Buttermilk,8,2498,19984,20,23980.8
+CA4344,22-Jan-2020,54,INR,Flipstorm,1,Tea - Lemon Green Tea,9,490,4410,20,5292
+AA4234,28-Jun-2020,83,INR,Digitube,1,"Lid - High Heat, Super Clear",5,2279,11395,20,13674
+AC1343,27-Sep-2020,63,INR,Mybuzz,1,Kiwi,7,329,2303,20,2763.6
+CC4424,04-Apr-2020,50,INR,Oyope,1,Dry Ice,5,2719,13595,20,16314
+AB4444,23-Aug-2020,82,INR,Mudo,1,Beer - Camerons Auburn,6,1206,7236,20,8683.2
+BC1434,16-Jun-2020,29,INR,Trilia,1,Quail - Jumbo,3,1523,4569,20,5482.8
+CA3232,14-Nov-2020,25,INR,Latz,1,"Wine - Saint - Bris 2002, Sauv",4,2381,9524,20,11428.8
+CA3334,26-Jan-2021,90,INR,Skalith,1,Chicken - Ground,2,2198,4396,20,5275.2
+CA4441,18-Jun-2020,82,INR,Skipstorm,1,Beef Ground Medium,4,1402,5608,20,6729.6
+BC4144,18-Jul-2020,60,INR,Babblestorm,1,"Pasta - Gnocchi, Potato",9,392,3528,20,4233.6
+CC1443,04-Mar-2021,71,INR,Devpulse,1,English Muffin,9,1940,17460,20,20952
+CC2433,11-Mar-2021,8,INR,Skidoo,1,Flour - Whole Wheat,6,778,4668,20,5601.6
+CC2144,05-Oct-2020,71,INR,Cogidoo,1,Bread - Pita,1,2754,2754,20,3304.8
+BC3334,30-Jul-2020,32,INR,Kimia,1,Magnotta - Bel Paese White,8,1316,10528,20,12633.6
+CC2244,11-Jan-2021,30,INR,Cogidoo,1,Wine - Cotes Du Rhone,4,2175,8700,20,10440
+BC4342,02-Jan-2021,71,INR,Feednation,1,Plums - Red,1,1407,1407,20,1688.4
+CA2344,07-Mar-2020,76,INR,Yodo,1,Sauce - Vodka Blush,10,2190,21900,20,26280
+CA2344,11-May-2020,84,INR,Skiptube,1,Coriander - Seed,4,674,2696,20,3235.2
+BB2444,19-May-2020,71,INR,Oodoo,1,Beef - Top Butt,9,1689,15201,20,18241.2
+BC1242,14-Jan-2020,23,INR,Bubbletube,1,Tuna - Sushi Grade,3,416,1248,20,1497.6
+CC2441,09-Jan-2021,74,INR,Latz,1,"Turkey - Whole, Fresh",6,334,2004,20,2404.8
+CC1124,26-Jan-2021,70,INR,Mynte,1,Pastry - Carrot Muffin - Mini,7,2496,17472,20,20966.4
+CC2443,28-Jul-2020,22,INR,Riffpedia,1,Pork Loin Bine - In Frenched,6,1059,6354,20,7624.8
+BB1134,13-Dec-2020,22,INR,Leexo,1,Mussels - Cultivated,5,322,1610,20,1932
+CB4434,23-Oct-2020,63,INR,Voolith,1,"Schnappes - Peach, Walkers",8,1254,10032,20,12038.4
+BA3343,30-Sep-2020,70,INR,Trudeo,1,Catfish - Fillets,3,1922,5766,20,6919.2
+AC1244,31-Mar-2020,28,INR,Jabbersphere,1,Wine - Jaboulet Cotes Du Rhone,10,2887,28870,20,34644
+AC2433,11-Mar-2020,85,INR,Yacero,1,Soup - Campbells - Tomato,10,1864,18640,20,22368
+AB4434,25-Aug-2020,59,INR,Eabox,1,Table Cloth 90x90 White,5,1968,9840,20,11808
+BC4334,07-Jul-2020,34,INR,Zoomzone,1,Table Cloth 54x72 Colour,9,1652,14868,20,17841.6
+AB3444,10-Dec-2020,27,INR,Kanoodle,1,"Beans - Kidney, Red Dry",10,2254,22540,20,27048
+CC4434,08-Apr-2020,38,INR,Brainbox,1,"Soup - Campbells, Creamy",8,2292,18336,20,22003.2
+AA4333,23-Aug-2020,29,INR,Quinu,1,"Stock - Veal, White",6,2896,17376,20,20851.2
+CC1413,01-Apr-2020,52,INR,Zoonoodle,1,Sardines,8,2134,17072,20,20486.4
+CC1444,03-Aug-2020,42,INR,Quaxo,1,Juice - Apple 284ml,10,1531,15310,20,18372
+CC4144,16-Oct-2020,71,INR,Voolith,1,Chip - Potato Dill Pickle,4,855,3420,20,4104
+CB4422,14-Sep-2020,64,INR,Youspan,1,"Shrimp - 21/25, Peel And Deviened",1,2088,2088,20,2505.6
+BC2324,24-Oct-2020,37,INR,Aivee,1,Nougat - Paste / Cream,6,310,1860,20,2232
+CA3144,06-May-2020,13,INR,Quinu,1,V8 - Vegetable Cocktail,1,2230,2230,20,2676
+BC4432,15-Nov-2020,10,INR,Dazzlesphere,1,Wine - Vovray Sec Domaine Huet,2,2357,4714,20,5656.8
+CC4433,29-Jan-2021,81,INR,Kare,1,Water - Aquafina Vitamin,1,2284,2284,20,2740.8
+BB4344,26-Mar-2020,70,INR,Trudoo,1,"Fish - Halibut, Cold Smoked",10,1319,13190,20,15828
+BB3434,25-Jan-2020,48,INR,Skyndu,1,Cognac - Courvaisier,1,2153,2153,20,2583.6
+AC3444,20-Mar-2020,76,INR,Jabberbean,1,Table Cloth 62x120 White,10,1188,11880,20,14256
+CC2444,22-Jan-2020,24,INR,LiveZ,1,Yogurt - Assorted Pack,2,2477,4954,20,5944.8
+BC4423,03-Oct-2020,84,INR,Jaloo,1,Onions - Cippolini,9,1860,16740,20,20088
+AB1342,01-Jul-2020,58,INR,Voolia,1,"Asparagus - Green, Fresh",1,1135,1135,20,1362
+CC3344,27-May-2020,57,INR,Skynoodle,1,Tea - Herbal Sweet Dreams,7,904,6328,20,7593.6
+CC3444,04-Mar-2021,30,INR,Flipstorm,1,"Veal - Shank, Pieces",7,564,3948,20,4737.6
+AC2344,05-Sep-2020,89,INR,Wikizz,1,Tea - Jasmin Green,4,270,1080,20,1296
+AA3434,27-Apr-2020,38,INR,Bubbletube,1,Soup - Campbells Chili Veg,9,1684,15156,20,18187.2
+AA3432,15-Sep-2020,9,INR,Plambee,1,"Pepper - Black, Whole",1,1215,1215,20,1458
+CB1444,28-Mar-2020,23,INR,Camido,1,Tofu - Soft,8,2464,19712,20,23654.4
+CC2143,30-Jun-2020,10,INR,Vinder,1,"Mushrooms - Black, Dried",4,1687,6748,20,8097.6
+BC1434,16-Feb-2020,90,INR,Edgepulse,1,Wine - Cotes Du Rhone Parallele,10,1470,14700,20,17640
+BB4314,26-Dec-2020,53,INR,Rooxo,1,Garlic,4,1994,7976,20,9571.2
+AC4343,14-Oct-2020,24,INR,Izio,1,"Tea - Darjeeling, Azzura",3,2912,8736,20,10483.2
+AC4444,23-Jun-2020,55,INR,Mudo,1,Wine - Mondavi Coastal Private,3,2916,8748,20,10497.6
+AB4444,03-Mar-2020,89,INR,Devpulse,1,Basil - Thai,5,953,4765,20,5718
+BC4414,13-Aug-2020,51,INR,Dazzlesphere,1,Iced Tea Concentrate,4,2344,9376,20,11251.2
+CC4434,06-Nov-2020,42,INR,Feedmix,1,Thyme - Dried,7,2708,18956,20,22747.2
+AB3443,12-Feb-2021,90,INR,Tambee,1,Beef Ground Medium,2,999,1998,20,2397.6
+CC2421,24-Feb-2020,48,INR,Chatterpoint,1,Honey - Lavender,3,613,1839,20,2206.8
+CC3331,24-Jul-2020,56,INR,Quatz,1,Canada Dry,3,2929,8787,20,10544.4
+CC4344,03-Aug-2020,28,INR,Feedbug,1,Wine - Jaboulet Cotes Du Rhone,5,2349,11745,20,14094
+AC2344,26-Oct-2020,37,INR,Edgepulse,1,Island Oasis - Mango Daiquiri,3,1828,5484,20,6580.8
+BC4344,19-Mar-2020,56,INR,Jabbertype,1,Corn Shoots,3,417,1251,20,1501.2
+CC4444,17-Jan-2021,57,INR,Eadel,1,Cookies - Englishbay Wht,9,1299,11691,20,14029.2
+BB4333,17-Mar-2020,48,INR,Topiczoom,1,Cheese - Le Cru Du Clocher,10,732,7320,20,8784
+AC2144,15-Apr-2020,59,INR,Ozu,1,Oil - Sesame,9,2315,20835,20,25002
+CC4314,02-Mar-2020,59,INR,DabZ,1,"Soup - Knorr, Chicken Gumbo",8,866,6928,20,8313.6
+CA4424,09-Sep-2020,90,INR,Livetube,1,Anisette - Mcguiness,3,2803,8409,20,10090.8
+AA1443,21-Mar-2021,8,INR,Zoombox,1,Cranberry Foccacia,3,1859,5577,20,6692.4
+CA4444,17-Jan-2020,49,INR,Pixoboo,1,Lobster - Base,9,699,6291,20,7549.2
+AB1144,29-Mar-2021,51,INR,Trilith,1,"Syrup - Golden, Lyles",2,2789,5578,20,6693.6
+AC4324,28-Jan-2020,27,INR,Tazzy,1,"Chicken - Wings, Tip Off",1,1861,1861,20,2233.2
+BC4343,14-Aug-2020,57,INR,Tagtune,1,Cognac - Courvaisier,2,1597,3194,20,3832.8
+AB3244,11-Oct-2020,34,INR,Tazzy,1,Tomatoes - Roma,8,1484,11872,20,14246.4
+BC4431,24-Nov-2020,84,INR,Skinder,1,"Shrimp - Baby, Warm Water",3,669,2007,20,2408.4
+CA4441,05-Feb-2020,31,INR,Oyope,1,Napkin Colour,1,1365,1365,20,1638
+CC4442,22-Mar-2020,64,INR,InnoZ,1,Aspic - Clear,2,2708,5416,20,6499.2
+CA4434,09-Sep-2020,50,INR,Flashset,1,Salt And Pepper Mix - White,10,837,8370,20,10044
+CB4334,26-Feb-2021,72,INR,Dabvine,1,Noodles - Steamed Chow Mein,4,1781,7124,20,8548.8
+CB2434,30-Jan-2020,52,INR,Rhycero,1,Duck - Breast,3,2930,8790,20,10548
+CA4433,25-Apr-2020,60,INR,Centidel,1,Mousse - Mango,3,1527,4581,20,5497.2
+CC3322,01-Mar-2021,53,INR,Pixope,1,Chicken - Whole,10,767,7670,20,9204
+AC3441,04-Nov-2020,45,INR,Youspan,1,Bread - Petit Baguette,6,1467,8802,20,10562.4
+AC3241,06-Jul-2020,86,INR,Blogtags,1,Mushroom - Lg - Cello,1,1308,1308,20,1569.6
+AA2224,18-Jan-2021,72,INR,Wordware,1,Sage - Fresh,5,2826,14130,20,16956
+AA4444,14-Feb-2020,62,INR,Gigashots,1,Oyster - In Shell,10,358,3580,20,4296
+CA2441,25-Mar-2020,88,INR,Edgeify,1,Chef Hat 20cm,9,2845,25605,20,30726
+CC4233,20-Mar-2021,42,INR,Yakijo,1,Shrimp - 31/40,4,348,1392,20,1670.4
+AC3431,07-Mar-2020,16,INR,Rhyloo,1,Vaccum Bag 10x13,3,1530,4590,20,5508
+BB4414,03-May-2020,71,INR,Buzzshare,1,Anchovy Fillets,6,2242,13452,20,16142.4
+BC4431,12-Apr-2020,9,INR,Topiczoom,1,"Fish - Halibut, Cold Smoked",3,1301,3903,20,4683.6
+CA4143,06-Jun-2020,78,INR,Dazzlesphere,1,"Bread - Bagels, Mini",4,2744,10976,20,13171.2
+CA4432,04-Nov-2020,71,INR,Riffpath,1,Truffle Shells - Semi - Sweet,10,2495,24950,20,29940
+BC4433,18-Jun-2020,15,INR,Feedfish,1,Wine - Cava Aria Estate Brut,10,2113,21130,20,25356
+CC3441,02-Apr-2020,47,INR,Dablist,1,Ecolab Digiclean Mild Fm,6,2908,17448,20,20937.6
+BB3443,23-Dec-2020,55,INR,Thoughtworks,1,Clam Nectar,10,257,2570,20,3084
+CC4443,27-Oct-2020,72,INR,Twitterbeat,1,"Lettuce - Mini Greens, Whole",5,1286,6430,20,7716
+BB2414,05-Apr-2020,59,INR,Skimia,1,"Pork - Back, Long Cut, Boneless",4,1004,4016,20,4819.2
+CC3443,26-Apr-2020,71,INR,Jayo,1,Dc Hikiage Hira Huba,7,2056,14392,20,17270.4
+CA3334,15-Aug-2020,82,INR,Zoomlounge,1,"Tendrils - Baby Pea, Organic",4,1017,4068,20,4881.6
+AB1242,30-Jan-2020,69,INR,Kazu,1,Red Cod Fillets - 225g,7,2056,14392,20,17270.4
+AC4444,23-Jan-2021,58,INR,Wordify,1,Bar Nature Valley,9,923,8307,20,9968.4
+CC4441,17-Sep-2020,64,INR,Jabbercube,1,Ice Cream Bar - Oreo Sandwich,8,2650,21200,20,25440
+CC3442,30-Sep-2020,60,INR,Tagfeed,1,Coconut - Whole,2,2853,5706,20,6847.2
+AA4444,24-Jul-2020,64,INR,Photofeed,1,Muffin Hinge Container 6,5,500,2500,20,3000
+AB4333,16-Mar-2021,55,INR,Avavee,1,Sobe - Tropical Energy,1,390,390,20,468
+CC4433,16-Oct-2020,40,INR,Pixonyx,1,Zucchini - Yellow,8,357,2856,20,3427.2
+AB4434,12-Jan-2021,81,INR,Brainverse,1,Island Oasis - Sweet And Sour Mix,5,2471,12355,20,14826
+CA4443,16-Apr-2020,10,INR,Devcast,1,Rum - Mount Gay Eclipes,2,2168,4336,20,5203.2
+AA3433,24-Jun-2020,77,INR,Rhyzio,1,Pumpkin,8,215,1720,20,2064
+AC4444,21-Oct-2020,65,INR,Realfire,1,"Doilies - 5, Paper",3,258,774,20,928.8
+CC4441,25-Jan-2021,9,INR,Tavu,1,Fond - Neutral,3,1161,3483,20,4179.6
+AA4441,26-Dec-2020,49,INR,Feedfish,1,Rice - Sushi,1,836,836,20,1003.2
+BA4344,19-Jul-2020,74,INR,Jabbersphere,1,Beets - Pickled,10,2585,25850,20,31020
+BB4444,23-Jan-2020,37,INR,Zooxo,1,Quiche Assorted,7,1389,9723,20,11667.6
+CA4444,03-Oct-2020,58,INR,Brainbox,1,Flour - So Mix Cake White,5,2358,11790,20,14148
+BC2443,04-Nov-2020,81,INR,Einti,1,"Juice - Grape, White",7,2774,19418,20,23301.6
+AB3441,08-Oct-2020,65,INR,Dabfeed,1,"Brownies - Two Bite, Chocolate",3,2824,8472,20,10166.4
+CB4143,02-Jul-2020,62,INR,Gigabox,1,Beef Tenderloin Aaa,3,576,1728,20,2073.6
+BB4424,22-Oct-2020,86,INR,Chatterpoint,1,Table Cloth 90x90 Colour,6,1728,10368,20,12441.6
+CB4334,21-Sep-2020,16,INR,Ntag,1,Broom Handle,3,1961,5883,20,7059.6
+AC3323,24-Mar-2020,26,INR,Twimm,1,Cookie Trail Mix,2,2771,5542,20,6650.4
+CC2433,13-Apr-2020,23,INR,Oodoo,1,"Brandy - Orange, Mc Guiness",10,1300,13000,20,15600
+BC3422,06-Mar-2021,60,INR,Fanoodle,1,Wine - Trimbach Pinot Blanc,8,2834,22672,20,27206.4
+AC3441,12-Feb-2021,78,INR,Skaboo,1,Table Cloth 54x72 White,7,1351,9457,20,11348.4
+BB2442,26-Jul-2020,77,INR,Gevee,1,Versatainer Nc - 8288,8,1269,10152,20,12182.4
+AC4424,05-Oct-2020,17,INR,Wikizz,1,Bananas,6,2208,13248,20,15897.6
+CA4424,19-Dec-2020,46,INR,Yacero,1,Cabbage - Red,7,1064,7448,20,8937.6
+CC4444,03-Sep-2020,44,INR,Zoombox,1,"Lamb - Leg, Boneless",2,1462,2924,20,3508.8
+CC4414,04-Dec-2020,23,INR,Katz,1,Squash - Guords,2,1452,2904,20,3484.8
+BA4334,17-Dec-2020,29,INR,Twimm,1,"Rum - Coconut, Malibu",2,2922,5844,20,7012.8
+CC4334,27-Aug-2020,68,INR,Yodoo,1,Cheese - Taleggio D.o.p.,7,861,6027,20,7232.4
+BB2321,25-Nov-2020,65,INR,Flashdog,1,Bread Roll Foccacia,6,343,2058,20,2469.6
+AC4441,25-Nov-2020,40,INR,Blogspan,1,Pop - Club Soda Can,6,511,3066,20,3679.2
+BA3134,02-Dec-2020,18,INR,Edgetag,1,"Bread - Dark Rye, Loaf",5,1262,6310,20,7572
+CC4344,20-May-2020,70,INR,Blogtag,1,"Ranchero - Primerba, Paste",10,716,7160,20,8592
+AB3421,08-Mar-2020,83,INR,Wordpedia,1,Blue Curacao - Marie Brizard,7,2782,19474,20,23368.8
+CC4444,30-Dec-2020,40,INR,Fivechat,1,Puree - Passion Fruit,2,1226,2452,20,2942.4
+CC4344,15-Jul-2020,81,INR,Dablist,1,Southern Comfort,9,543,4887,20,5864.4
+CC1344,25-Feb-2021,21,INR,Zooxo,1,Wine - George Duboeuf Rose,3,1352,4056,20,4867.2
+AC4444,30-Jun-2020,63,INR,Cogibox,1,Squash - Butternut,3,1297,3891,20,4669.2
+CC2242,14-Dec-2020,78,INR,Devbug,1,Vodka - Moskovskaya,10,1413,14130,20,16956
+CB1324,02-Jul-2020,20,INR,Jetwire,1,Tea Leaves - Oolong,2,2595,5190,20,6228
+CC1424,29-Jun-2020,43,INR,Vitz,1,Paper Cocktail Umberlla 80 - 180,8,1742,13936,20,16723.2
+AC3343,16-Dec-2020,19,INR,Twinder,1,Cocoa Butter,5,1909,9545,20,11454
+AC4341,05-Mar-2021,65,INR,Youspan,1,Lettuce - Baby Salad Greens,9,1388,12492,20,14990.4
+BB4433,11-Jun-2020,90,INR,Meeveo,1,Cheese - Wine,3,269,807,20,968.4
+AC4334,06-Sep-2020,63,INR,Twinder,1,Waffle Stix,7,737,5159,20,6190.8
+CA2414,20-Jun-2020,50,INR,Voolith,1,Gooseberry,5,650,3250,20,3900
+CC4233,16-Jul-2020,15,INR,Youtags,1,Salt - Seasoned,9,262,2358,20,2829.6
+BA3444,07-Dec-2020,62,INR,Flashspan,1,"Basil - Primerba, Paste",7,2054,14378,20,17253.6
+AC4443,15-May-2020,28,INR,Aivee,1,Soup Campbells - Italian Wedding,6,993,5958,20,7149.6
+CC1444,20-Mar-2021,7,INR,Aibox,1,Wine - Two Oceans Sauvignon,6,1572,9432,20,11318.4
+CB4434,01-Feb-2020,34,INR,Oyope,1,Beef - Prime Rib Aaa,1,567,567,20,680.4
+CC4144,11-Oct-2020,18,INR,Tagopia,1,Pants Custom Dry Clean,5,1369,6845,20,8214
+CA3344,20-May-2020,64,INR,Ainyx,1,Jagermeister,2,528,1056,20,1267.2
+AB4344,02-May-2020,42,INR,JumpXS,1,Table Cloth 54x72 White,1,1816,1816,20,2179.2
+AA4124,05-May-2020,72,INR,Lazzy,1,"Lemonade - Island Tea, 591 Ml",7,2521,17647,20,21176.4
+AA4324,27-Mar-2021,88,INR,Oyonder,1,Buttons,2,360,720,20,864
+BC3342,26-Mar-2020,9,INR,Babblestorm,1,"Beans - Kidney, Canned",9,2490,22410,20,26892
+CC4311,19-Mar-2020,52,INR,Tagchat,1,"Pasta - Fusili, Dry",6,1373,8238,20,9885.6
+CB3113,28-Jul-2020,65,INR,Mymm,1,Soup - Campbells - Tomato,9,2885,25965,20,31158
+BA3344,01-Jun-2020,29,INR,Twitterwire,1,Corn - Mini,4,2096,8384,20,10060.8
+CC2242,14-Mar-2020,51,INR,Pixope,1,Leeks - Large,3,2321,6963,20,8355.6
+AB4444,25-Jun-2020,68,INR,Yombu,1,Cheese - Perron Cheddar,5,223,1115,20,1338
+CC4442,11-Jun-2020,19,INR,Linkbuzz,1,Wine - Chablis 2003 Champs,2,734,1468,20,1761.6
+CC4424,07-Dec-2020,84,INR,Realfire,1,Sea Urchin,4,2993,11972,20,14366.4
+AB4342,10-Dec-2020,81,INR,Photobean,1,Nantucket Apple Juice,8,270,2160,20,2592
+AC2443,02-Oct-2020,20,INR,Meevee,1,Capers - Ox Eye Daisy,3,410,1230,20,1476
+AB4444,26-Feb-2020,72,INR,Youfeed,1,White Baguette,2,1682,3364,20,4036.8
+AB4442,01-Nov-2020,90,INR,Vimbo,1,Nantucket - Orange Mango Cktl,2,2181,4362,20,5234.4
+CA4344,24-Jul-2020,23,INR,Babbleset,1,Lettuce - Boston Bib,3,1628,4884,20,5860.8
+BC1442,07-Feb-2020,42,INR,Meevee,1,Watercress,2,1814,3628,20,4353.6
+CA1442,04-Oct-2020,28,INR,Kimia,1,"Juice - Tomato, 10 Oz",6,2262,13572,20,16286.4
+CA4244,11-Jun-2020,83,INR,Divanoodle,1,Icecream Bar - Del Monte,6,668,4008,20,4809.6
+CC1213,20-Dec-2020,72,INR,Lazz,1,Pastry - Baked Cinnamon Stick,5,2792,13960,20,16752
+AA4322,19-Apr-2020,33,INR,Izio,1,Pepper - Red Bell,3,1115,3345,20,4014
+BA4134,09-Jul-2020,62,INR,JumpXS,1,Sage - Ground,4,1528,6112,20,7334.4
+AA4413,30-Aug-2020,22,INR,Quire,1,Wine - Mondavi Coastal Private,10,538,5380,20,6456
+CC4341,23-Feb-2020,34,INR,Yamia,1,Island Oasis - Magarita Mix,2,2650,5300,20,6360
+BB4444,23-May-2020,14,INR,Yakitri,1,Beef - Top Sirloin,8,775,6200,20,7440
+CC4444,31-Oct-2020,49,INR,Yotz,1,Wine - Touraine Azay - Le - Rideau,2,1680,3360,20,4032
+CC3341,19-Feb-2021,87,INR,Oyondu,1,"Ecolab - Orange Frc, Cleaner",4,2404,9616,20,11539.2
+BC1444,01-Jan-2021,52,INR,Pixope,1,Greens Mustard,3,414,1242,20,1490.4
+BC3434,26-Mar-2020,55,INR,Youopia,1,Madeira,10,1841,18410,20,22092
+CC3434,26-Jan-2020,44,INR,Riffpath,1,Squid Ink,10,2677,26770,20,32124
+CC4311,09-Feb-2020,36,INR,Aimbo,1,"Ice - Clear, 300 Lb For Carving",2,1487,2974,20,3568.8
+AA1444,08-Mar-2021,83,INR,Mymm,1,Dried Cherries,1,2515,2515,20,3018
+CA3441,06-Feb-2021,44,INR,Tambee,1,Cognac - Courvaisier,9,2487,22383,20,26859.6
+BA1143,13-Aug-2020,56,INR,Twitterworks,1,"Tortillas - Flour, 12",2,2631,5262,20,6314.4
+CC3141,06-Sep-2020,87,INR,Voomm,1,Lumpfish Black,4,2993,11972,20,14366.4
+AA4134,11-May-2020,61,INR,Jayo,1,Pie Box - Cello Window 2.5,5,2968,14840,20,17808
+CC4324,06-Jan-2021,39,INR,Buzzster,1,Chicken - Whole,2,311,622,20,746.4
+CB4234,11-Jun-2020,24,INR,Cogilith,1,"Bread - Pumpernickle, Rounds",5,857,4285,20,5142
+CC4443,29-Dec-2020,64,INR,Ntags,1,Garam Masala Powder,6,676,4056,20,4867.2
+CC4414,08-Sep-2020,28,INR,Livetube,1,Filter - Coffee,4,876,3504,20,4204.8
+AC2142,13-Apr-2020,89,INR,Buzzbean,1,"Chicken - White Meat, No Tender",7,1022,7154,20,8584.8
+BA1144,22-Mar-2020,59,INR,Skinder,1,"Mushrooms - Black, Dried",1,610,610,20,732
+BB4334,31-Mar-2020,74,INR,Yozio,1,Wine - Ruffino Chianti Classico,7,1110,7770,20,9324
+BA3332,04-May-2020,41,INR,Rhyzio,1,"Wine - White, Ej Gallo",9,2728,24552,20,29462.4
+BB3123,18-Mar-2021,54,INR,Plajo,1,Oven Mitts - 15 Inch,6,1707,10242,20,12290.4
+BC4121,11-Dec-2020,25,INR,Pixoboo,1,Wine - Tribal Sauvignon,10,760,7600,20,9120
+CC3434,23-Feb-2020,48,INR,Thoughtsphere,1,Pie Shells 10,4,2331,9324,20,11188.8
+CC3444,16-Feb-2020,9,INR,Avamm,1,Sauce - Chili,3,2407,7221,20,8665.2
+CA2443,17-Aug-2020,74,INR,Trilith,1,Pop - Club Soda Can,1,2775,2775,20,3330
+CC4344,12-Aug-2020,67,INR,Yodo,1,"Bread - Roll, Canadian Dinner",8,930,7440,20,8928
+BA4434,19-May-2020,44,INR,Jabberstorm,1,Loquat,8,237,1896,20,2275.2
+AB3244,23-Feb-2020,27,INR,Devshare,1,"Soup - Campbells, Cream Of",7,2702,18914,20,22696.8
+CC1444,02-Jul-2020,43,INR,Ntags,1,"Beans - Navy, Dry",6,1115,6690,20,8028
+CA4142,05-May-2020,55,INR,Muxo,1,Wine - Fino Tio Pepe Gonzalez,4,977,3908,20,4689.6
+CB2323,13-Oct-2020,90,INR,Yodoo,1,Shichimi Togarashi Peppeers,10,2924,29240,20,35088
+AA2334,24-Aug-2020,10,INR,Bubblebox,1,Uniform Linen Charge,4,2616,10464,20,12556.8
+AB1244,22-Mar-2020,50,INR,Quimba,1,"Wine - Mas Chicet Rose, Vintage",3,1867,5601,20,6721.2
+AC4241,12-Jan-2020,82,INR,Ainyx,1,Dasheen,9,500,4500,20,5400
+BC4413,02-Sep-2020,7,INR,Plambee,1,Wine - Valpolicella Masi,1,1778,1778,20,2133.6
+CA4433,24-Jun-2020,8,INR,Mynte,1,Cassis,1,2914,2914,20,3496.8
+CC3432,04-Apr-2020,32,INR,Edgeblab,1,"Cheese - Woolwich Goat, Log",4,1694,6776,20,8131.2
+CA3434,11-Apr-2020,77,INR,Photobean,1,Muffin - Carrot Individual Wrap,2,2049,4098,20,4917.6
+CC4444,06-Feb-2021,68,INR,Oyoloo,1,Orange - Tangerine,3,2942,8826,20,10591.2
+CA1331,10-Nov-2020,11,INR,Camimbo,1,Trout - Smoked,5,863,4315,20,5178
+CA4442,29-Jan-2021,54,INR,Quamba,1,"Pepper - Paprika, Spanish",6,541,3246,20,3895.2
+CC2444,11-Feb-2020,84,INR,Abatz,1,Pepper - Orange,4,2726,10904,20,13084.8
+CA2142,24-Sep-2020,35,INR,Flashspan,1,Ham - Cooked Bayonne Tinned,10,2002,20020,20,24024
+BC1123,26-Nov-2020,68,INR,Zoomzone,1,Bread - Hot Dog Buns,3,2109,6327,20,7592.4
+AC3434,30-Jul-2020,82,INR,Zoozzy,1,Honey - Lavender,4,548,2192,20,2630.4
+CB3444,03-Feb-2020,57,INR,Ainyx,1,Lettuce - Arugula,3,2271,6813,20,8175.6
+CC3334,14-Mar-2021,54,INR,Brightdog,1,Port - 74 Brights,5,2580,12900,20,15480
+CC2444,22-Jan-2020,54,INR,Izio,1,Asparagus - Mexican,4,2682,10728,20,12873.6
+BB3314,24-Mar-2021,7,INR,Zoonoodle,1,Nantuket Peach Orange,7,979,6853,20,8223.6
+AB3431,01-Sep-2020,71,INR,Katz,1,"Wine - Red, Concha Y Toro",8,372,2976,20,3571.2
+CC4441,28-Mar-2021,59,INR,Quaxo,1,Cheese - Cheddarsliced,6,1058,6348,20,7617.6
+AC2334,19-Aug-2020,85,INR,Trupe,1,"Chicken - Thigh, Bone In",10,327,3270,20,3924
+CC3124,08-Apr-2020,7,INR,Jaxnation,1,Icecream - Dstk Super Cone,4,2620,10480,20,12576
+CC1434,14-Mar-2020,15,INR,Kwilith,1,Wine - Ice Wine,2,301,602,20,722.4
+BA3442,06-Feb-2020,16,INR,Roomm,1,Wine - Beringer Founders Estate,9,1825,16425,20,19710
+CC4444,07-Aug-2020,9,INR,Wordpedia,1,Pork - Caul Fat,1,1394,1394,20,1672.8
+AA3444,25-May-2020,58,INR,Devcast,1,"Salt - Rock, Course",3,1809,5427,20,6512.4
+CC3443,14-Oct-2020,46,INR,Quimba,1,Blueberries - Frozen,10,257,2570,20,3084
+CC3414,26-Nov-2020,64,INR,Divavu,1,Bread - Calabrese Baguette,2,764,1528,20,1833.6
+AB4444,13-Nov-2020,12,INR,Wikibox,1,Pancetta,6,2380,14280,20,17136
+CC2332,24-Mar-2020,72,INR,Ntag,1,Huck Towels White,4,2622,10488,20,12585.6
+CC3344,24-Sep-2020,81,INR,Yodel,1,Whmis Spray Bottle Graduated,10,2438,24380,20,29256
+BC4244,21-Feb-2021,73,INR,Mydo,1,Soup - Boston Clam Chowder,4,310,1240,20,1488
+BC3334,07-Feb-2021,59,INR,Reallinks,1,"Dill - Primerba, Paste",5,1093,5465,20,6558
+CB3124,18-Mar-2020,40,INR,Skinte,1,Steel Wool,2,2526,5052,20,6062.4
+AA3241,11-Mar-2020,46,INR,Blogtags,1,Cheese - St. Paulin,5,1931,9655,20,11586
+CC4241,07-Jul-2020,56,INR,Yodo,1,Red Cod Fillets - 225g,4,984,3936,20,4723.2
+CA4434,11-Jan-2020,80,INR,Skiba,1,Wheat - Soft Kernal Of Wheat,8,708,5664,20,6796.8
+CA4243,18-Feb-2021,68,INR,Oyoba,1,Veal - Heart,7,2634,18438,20,22125.6
+CB3233,16-Feb-2021,33,INR,Linkbridge,1,Assorted Desserts,3,1534,4602,20,5522.4
+AB3444,18-Apr-2020,18,INR,Jabbertype,1,Kumquat,4,690,2760,20,3312
+CA4414,05-Apr-2020,68,INR,Tagfeed,1,Raspberries - Fresh,2,2850,5700,20,6840
+AB3314,11-Mar-2021,49,INR,Nlounge,1,Eggplant Oriental,3,950,2850,20,3420
+CA4321,22-Jul-2020,15,INR,Cogilith,1,Wine - Beringer Founders Estate,4,287,1148,20,1377.6
+AA1424,30-Jun-2020,82,INR,Flashset,1,The Pop Shoppe - Grape,8,2608,20864,20,25036.8
+BC3433,24-Jun-2020,9,INR,Dynabox,1,Potatoes - Peeled,2,2642,5284,20,6340.8
+CA3441,22-Sep-2020,79,INR,Skiba,1,"Salmon - Atlantic, Skin On",1,2905,2905,20,3486
+CC4442,13-Jan-2020,53,INR,Eazzy,1,Sugar - Palm,7,2032,14224,20,17068.8
+BC3143,18-Feb-2020,19,INR,Edgeify,1,"Radish - Black, Winter, Organic",4,2144,8576,20,10291.2
+BB1123,11-Apr-2020,11,INR,Jaxnation,1,Sauce - Soy Low Sodium - 3.87l,6,658,3948,20,4737.6
+BB2434,27-Jan-2021,13,INR,Pixoboo,1,Nacho Chips,4,662,2648,20,3177.6
+BA4414,30-Jan-2020,81,INR,Photobean,1,Sea Bass - Fillets,1,2587,2587,20,3104.4
+CC4114,24-Jun-2020,33,INR,Avaveo,1,Beans - Wax,10,828,8280,20,9936
+AA4143,29-Mar-2020,49,INR,Edgepulse,1,Anchovy Paste - 56 G Tube,1,1374,1374,20,1648.8
+CC2343,05-Aug-2020,31,INR,Topicblab,1,Ham - Black Forest,3,1753,5259,20,6310.8
+BB4222,18-Feb-2020,87,INR,Gigabox,1,Caviar - Salmon,10,1146,11460,20,13752
+AB3123,16-Aug-2020,27,INR,Leexo,1,Rice - Aborio,4,516,2064,20,2476.8
+CA4343,13-Aug-2020,75,INR,Pixonyx,1,Flour Dark Rye,7,876,6132,20,7358.4
+CC3444,04-Aug-2020,73,INR,Edgewire,1,Guava,3,587,1761,20,2113.2
+BC1434,23-Mar-2020,23,INR,Twitterwire,1,"Water - Mineral, Natural",3,566,1698,20,2037.6
+CC4444,05-Oct-2020,76,INR,Twinte,1,Sobe - Cranberry Grapefruit,5,1115,5575,20,6690
+BC4334,27-Oct-2020,52,INR,Oyondu,1,Quail - Jumbo Boneless,3,1538,4614,20,5536.8
+CC2234,16-Mar-2020,65,INR,Photobug,1,Propel Sport Drink,2,1394,2788,20,3345.6
+AC3241,31-Aug-2020,81,INR,Npath,1,Rice Paper,5,2581,12905,20,15486
+CC4414,05-Oct-2020,40,INR,Vinder,1,Kiwi,5,2093,10465,20,12558
+BC4443,30-May-2020,43,INR,Mynte,1,Lamb - Shanks,4,2281,9124,20,10948.8
+CC3343,13-May-2020,78,INR,Rhyloo,1,Stock - Fish,8,412,3296,20,3955.2
+CB4441,04-Feb-2021,49,INR,Mynte,1,Pastry - Baked Cinnamon Stick,5,596,2980,20,3576
+AA4423,18-Sep-2020,10,INR,Avamm,1,Skirt - 24 Foot,4,1974,7896,20,9475.2
+CB4444,06-Feb-2020,46,INR,Eire,1,Nantucket - Orange Mango Cktl,9,2517,22653,20,27183.6
+BC4144,22-Apr-2020,21,INR,Brightdog,1,Ginsing - Fresh,1,2454,2454,20,2944.8
+CA3434,01-May-2020,25,INR,Bubbletube,1,Yokaline,3,2851,8553,20,10263.6
+CC3444,10-Nov-2020,10,INR,Gevee,1,Muffin Batt - Carrot Spice,4,2069,8276,20,9931.2
+AC4444,26-Jan-2021,66,INR,Edgewire,1,Cup - 4oz Translucent,3,1197,3591,20,4309.2
+CC4444,19-Jan-2020,51,INR,Rhyloo,1,Bagel - Everything Presliced,7,1346,9422,20,11306.4
+BA1331,31-Jan-2021,64,INR,Eazzy,1,"Yogurt - Raspberry, 175 Gr",9,2980,26820,20,32184
+CB3124,29-Nov-2020,23,INR,Realmix,1,Wine - Ej Gallo Sierra Valley,5,2522,12610,20,15132
+CA2241,16-Feb-2020,20,INR,Lajo,1,Ostrich - Fan Fillet,4,2593,10372,20,12446.4
+BC4443,25-May-2020,30,INR,Devpulse,1,Glass - Juice Clear 5oz 55005,5,2334,11670,20,14004
+BA4321,09-Feb-2020,77,INR,Devpoint,1,Plasticknivesblack,4,837,3348,20,4017.6
+CA3432,01-Jul-2020,22,INR,Quinu,1,Icecream Bar - Del Monte,7,2252,15764,20,18916.8
+BA2434,03-Aug-2020,84,INR,Chatterbridge,1,Asparagus - Frozen,9,513,4617,20,5540.4
+CA4143,15-Aug-2020,46,INR,Yodo,1,Chocolate - Sugar Free Semi Choc,1,699,699,20,838.8
+BB4444,10-Mar-2021,89,INR,Fiveclub,1,Duck - Whole,4,1598,6392,20,7670.4
+BB4434,05-Aug-2020,34,INR,Tambee,1,Towel - Roll White,2,1215,2430,20,2916
+AB2141,22-Dec-2020,24,INR,Gevee,1,Crab - Soft Shell,9,1388,12492,20,14990.4
+CB4324,03-Mar-2020,70,INR,Yodoo,1,Vaccum Bag 10x13,1,1842,1842,20,2210.4
+CB4442,12-Mar-2021,27,INR,Fivechat,1,Zucchini - Yellow,4,2555,10220,20,12264
+CB3424,18-Mar-2020,28,INR,Brightbean,1,External Supplier,1,2098,2098,20,2517.6
+CC1344,10-Mar-2020,39,INR,Einti,1,Red Cod Fillets - 225g,1,657,657,20,788.4
+AB4144,08-Mar-2021,17,INR,Dabshots,1,"Chocolate - Pistoles, White",2,362,724,20,868.8
+BC4414,29-Sep-2020,81,INR,Flashspan,1,Cheese - Le Cru Du Clocher,3,2814,8442,20,10130.4
+AB4234,27-Jun-2020,66,INR,Browsecat,1,Versatainer Nc - 8288,4,475,1900,20,2280
+CC4444,13-Oct-2020,63,INR,Zoonder,1,Syrup - Monin - Blue Curacao,4,1777,7108,20,8529.6
+CC3244,25-Jan-2021,7,INR,Roodel,1,Wine - Blue Nun Qualitatswein,1,901,901,20,1081.2
+CA3344,26-Mar-2021,80,INR,Dabvine,1,Mix - Cocktail Strawberry Daiquiri,2,1570,3140,20,3768
+CC1413,14-Mar-2020,81,INR,Topiczoom,1,Onions - Spanish,9,410,3690,20,4428
+AB3414,19-Sep-2020,22,INR,Jabbertype,1,Barley - Pearl,6,1568,9408,20,11289.6
+CA1331,02-Oct-2020,90,INR,Edgetag,1,"Ice - Clear, 300 Lb For Carving",2,1837,3674,20,4408.8
+CC1444,02-Jan-2020,88,INR,Oyope,1,Laundry - Bag Cloth,3,1237,3711,20,4453.2
+BC3343,07-Jan-2021,54,INR,Meetz,1,Beef Wellington,9,603,5427,20,6512.4
+CC2233,14-Apr-2020,64,INR,Chatterbridge,1,"Nut - Peanut, Roasted",3,636,1908,20,2289.6
+BA2241,16-Jan-2021,44,INR,Twitterworks,1,Bandage - Flexible Neon,3,268,804,20,964.8
+CA4344,19-Jul-2020,59,INR,Yozio,1,Cocoa Powder - Natural,10,2365,23650,20,28380
+CB4322,22-Jan-2021,34,INR,Skyndu,1,Nantucket - Kiwi Berry Cktl.,10,2800,28000,20,33600
+CA4444,29-Jan-2021,79,INR,Mita,1,"Beans - Navy, Dry",10,785,7850,20,9420
+AC4133,27-Jun-2020,33,INR,DabZ,1,Mints - Striped Red,6,840,5040,20,6048
+CC4342,23-May-2020,36,INR,Aibox,1,Beef - Ground Medium,10,2298,22980,20,27576
+BC4244,17-Mar-2020,61,INR,Oyoloo,1,Cabbage Roll,4,517,2068,20,2481.6
+AB4434,11-Jul-2020,31,INR,Wikizz,1,Tea - Grapefruit Green Tea,4,2298,9192,20,11030.4
+BC3443,21-Jun-2020,79,INR,Zoovu,1,Sugar - Brown,6,2017,12102,20,14522.4
+AC1432,17-Jan-2020,23,INR,Wikivu,1,Nescafe - Frothy French Vanilla,2,421,842,20,1010.4
+CA1344,17-Oct-2020,53,INR,Jazzy,1,Chinese Foods - Plain Fried Rice,7,1530,10710,20,12852
+AC4331,06-Oct-2020,64,INR,Brainsphere,1,"Wine - White, Concha Y Toro",2,2183,4366,20,5239.2
+AB3424,23-Jan-2020,16,INR,Tazz,1,"Tart Shells - Savory, 3",10,1315,13150,20,15780
+BC4344,14-Sep-2020,78,INR,Jabbercube,1,Baking Powder,9,1837,16533,20,19839.6
+BB2441,31-Oct-2020,80,INR,Skidoo,1,Instant Coffee,9,2990,26910,20,32292
+CC1434,27-Feb-2020,41,INR,Browsezoom,1,"Wine - White, Antinore Orvieto",3,1909,5727,20,6872.4
+CB1444,09-Oct-2020,80,INR,Brightdog,1,Wine - Lamancha Do Crianza,3,2252,6756,20,8107.2
+CC4113,19-Jan-2020,13,INR,Babbleopia,1,"Beans - Navy, Dry",5,1992,9960,20,11952
+AA1412,13-Apr-2020,58,INR,Skyndu,1,Paste - Black Olive,5,671,3355,20,4026
+AB4334,08-Feb-2021,74,INR,Meevee,1,"Split Peas - Green, Dry",5,2224,11120,20,13344
+BA2414,14-Feb-2021,7,INR,Kazu,1,Garam Masala Powder,6,2202,13212,20,15854.4
+CB4441,30-Nov-2020,17,INR,Skiba,1,Cocoa Feuilletine,4,2063,8252,20,9902.4
+CB3411,08-May-2020,66,INR,Browsecat,1,Muffin Mix - Carrot,2,2679,5358,20,6429.6
+BB4442,15-Feb-2021,37,INR,Voonte,1,"Crab - Back Fin Meat, Canned",1,1065,1065,20,1278
+BC4343,02-Jun-2020,44,INR,Reallinks,1,Syrup - Kahlua Chocolate,4,1699,6796,20,8155.2
+CB4314,05-Oct-2020,32,INR,Twitterbridge,1,Sweet Pea Sprouts,4,765,3060,20,3672
+BB4344,04-Jan-2021,67,INR,Fatz,1,Glove - Cutting,5,469,2345,20,2814
+AC2314,28-Feb-2020,62,INR,Twinder,1,"Bar Mix - Pina Colada, 355 Ml",9,639,5751,20,6901.2
+BC2441,08-Jan-2021,70,INR,Rhynyx,1,Oats Large Flake,3,2885,8655,20,10386
+CA2442,26-Apr-2020,9,INR,Oyope,1,"Bread - Multigrain, Loaf",7,474,3318,20,3981.6
+CC1314,12-Jan-2021,65,INR,Skimia,1,Carbonated Water - White Grape,3,2057,6171,20,7405.2
+CA4243,02-Apr-2020,85,INR,Wikizz,1,"Stock - Veal, White",7,1871,13097,20,15716.4
+BC4414,20-Jul-2020,69,INR,Youtags,1,"Plate - Foam, Bread And Butter",2,739,1478,20,1773.6
+CC4434,20-Feb-2021,70,INR,Zoonoodle,1,"Lobster - Tail, 3 - 4 Oz",2,365,730,20,876
+CC1244,10-Mar-2020,13,INR,Realcube,1,"Wine - White, Lindemans Bin 95",6,240,1440,20,1728
+CA4441,04-Aug-2020,74,INR,Livetube,1,Flavouring - Rum,3,1730,5190,20,6228
+BC2344,09-Aug-2020,69,INR,Skiptube,1,Bagel - Everything,4,1218,4872,20,5846.4
+CC1434,19-Feb-2020,35,INR,Linkbuzz,1,Carbonated Water - Raspberry,9,1422,12798,20,15357.6
+CC4444,01-Feb-2020,72,INR,LiveZ,1,Cake - Sheet Strawberry,6,1646,9876,20,11851.2
+BA2443,03-Mar-2021,73,INR,Youspan,1,"Soup - Clam Chowder, Dry Mix",4,714,2856,20,3427.2
+BB1344,12-Aug-2020,45,INR,Yadel,1,Beans - Kidney White,4,901,3604,20,4324.8
+BA4244,03-Nov-2020,75,INR,Shufflebeat,1,Wine - Jafflin Bourgongone,1,761,761,20,913.2
+AC4412,26-Feb-2020,80,INR,Vidoo,1,Wine - Cotes Du Rhone Parallele,8,396,3168,20,3801.6
+CB4343,14-Jul-2020,14,INR,Aivee,1,Beets,4,447,1788,20,2145.6
+CC4424,22-May-2020,30,INR,Kimia,1,Cheese - Le Cru Du Clocher,3,594,1782,20,2138.4
+AB4223,26-Oct-2020,87,INR,Izio,1,Chocolate - Semi Sweet,4,1951,7804,20,9364.8
+BA4144,05-May-2020,27,INR,InnoZ,1,Emulsifier,6,2955,17730,20,21276
+BA1124,23-Oct-2020,23,INR,Quinu,1,Cheese - Victor Et Berthold,2,2438,4876,20,5851.2
+CC3243,17-Feb-2020,81,INR,Trilia,1,Dragon Fruit,5,2463,12315,20,14778
+CB4344,12-Oct-2020,85,INR,Voonix,1,"Cheese - Brie, Triple Creme",3,1655,4965,20,5958
+BC3132,12-Mar-2021,16,INR,Gabcube,1,Cheese Cloth No 100,5,2508,12540,20,15048
+BB2414,01-May-2020,8,INR,Buzzbean,1,Wine - Blue Nun Qualitatswein,8,643,5144,20,6172.8
+AA4344,19-Jul-2020,57,INR,Skinix,1,Bread - Triangle White,10,1450,14500,20,17400
+CC4334,30-Oct-2020,66,INR,Flipstorm,1,The Pop Shoppe - Black Cherry,10,2766,27660,20,33192
+AC4423,20-Sep-2020,72,INR,Wikizz,1,Corn Shoots,8,2790,22320,20,26784
+AC4431,08-Jul-2020,75,INR,Blogspan,1,"Vodka - Hot, Lnferno",5,2473,12365,20,14838
+CA2331,25-Feb-2021,40,INR,Jaxworks,1,Pastry - French Mini Assorted,3,1509,4527,20,5432.4
+AA4443,10-Sep-2020,64,INR,Zooveo,1,"Octopus - Baby, Cleaned",1,690,690,20,828
+CC3343,26-May-2020,14,INR,Rhyzio,1,"Wine - Magnotta, White",5,444,2220,20,2664
+CC4414,05-Nov-2020,74,INR,Wikibox,1,Tandoori Curry Paste,5,1425,7125,20,8550
+AC3433,09-Sep-2020,78,INR,Twiyo,1,"Chilli Paste, Sambal Oelek",5,2568,12840,20,15408
+CB3444,12-Mar-2020,74,INR,Jaloo,1,Lettuce - Boston Bib - Organic,1,1557,1557,20,1868.4
+CB1444,28-Mar-2020,64,INR,Ozu,1,Lettuce - Spring Mix,9,274,2466,20,2959.2
+BC3432,06-Jun-2020,90,INR,Muxo,1,Muffin Orange Individual,2,2919,5838,20,7005.6
+BC2414,12-Mar-2021,54,INR,Wordpedia,1,"Split Peas - Green, Dry",3,2847,8541,20,10249.2
+CA3144,28-May-2020,58,INR,Thoughtbeat,1,Tobasco Sauce,10,1232,12320,20,14784
+AA1143,14-Aug-2020,31,INR,Photolist,1,Mackerel Whole Fresh,3,2453,7359,20,8830.8
+AC4341,19-Jul-2020,67,INR,Meeveo,1,Onions - Cippolini,4,388,1552,20,1862.4
+CB3444,07-Dec-2020,54,INR,Meeveo,1,Carbonated Water - Strawberry,1,820,820,20,984
+AC4434,26-Dec-2020,11,INR,Devpoint,1,"Tabasco Sauce, 2 Oz",3,1955,5865,20,7038
+CC4424,04-Dec-2020,88,INR,Kare,1,Tea - Apple Green Tea,1,2458,2458,20,2949.6
+BB3443,26-Dec-2020,11,INR,Wordpedia,1,Mushroom Morel Fresh,7,519,3633,20,4359.6
+BC2444,06-Jan-2021,75,INR,Youspan,1,"Tomatoes - Diced, Canned",5,772,3860,20,4632
+CC1434,17-Dec-2020,83,INR,Voonder,1,Basil - Thai,4,291,1164,20,1396.8
+CC4431,26-Feb-2021,37,INR,Agimba,1,Ham - Virginia,8,1672,13376,20,16051.2
+CC3244,09-Oct-2020,62,INR,Jayo,1,Sauce - Alfredo,7,994,6958,20,8349.6
+CA4142,10-Feb-2021,23,INR,Twitterbeat,1,Caviar - Salmon,5,2447,12235,20,14682
+CC2321,30-Mar-2020,85,INR,Layo,1,"Bread - Sticks, Thin, Plain",6,2478,14868,20,17841.6
+BC3344,14-Jan-2020,85,INR,Babbleset,1,Sausage - Blood Pudding,2,2992,5984,20,7180.8
+CC4444,28-Mar-2020,12,INR,BlogXS,1,Soap - Pine Sol Floor Cleaner,8,364,2912,20,3494.4
+CA3313,09-Aug-2020,69,INR,Trilith,1,Sansho Powder,3,2219,6657,20,7988.4
+AC4122,03-Aug-2020,79,INR,Yodoo,1,Muffin - Blueberry Individual,8,1964,15712,20,18854.4
+AC4334,14-Apr-2020,15,INR,Zoombox,1,Cheese - Camembert,4,2660,10640,20,12768
+CA4434,23-Jan-2021,9,INR,Gigaclub,1,Broccoli - Fresh,2,497,994,20,1192.8
+CA4144,03-Mar-2021,49,INR,Jabbercube,1,"Mushroom - Chanterelle, Dry",7,1518,10626,20,12751.2
+BC4444,24-Nov-2020,41,INR,Feednation,1,Sauerkraut,1,2693,2693,20,3231.6
+CC4444,27-Mar-2021,42,INR,Skajo,1,Pepper - Red Chili,9,1325,11925,20,14310
+AC1234,10-Jun-2020,90,INR,Photolist,1,Venison - Racks Frenched,3,1266,3798,20,4557.6
+AB4433,31-Dec-2020,18,INR,Avamba,1,"Pasta - Lasagne, Fresh",9,580,5220,20,6264
+AA1343,06-Nov-2020,40,INR,Skajo,1,"Pasta - Penne, Rigate, Dry",4,519,2076,20,2491.2
+AC4213,14-Feb-2021,18,INR,Meevee,1,Sansho Powder,7,546,3822,20,4586.4
+CA4444,10-Sep-2020,27,INR,Dynabox,1,Salt - Seasoned,1,1641,1641,20,1969.2
+CC1431,04-Feb-2021,17,INR,Devpoint,1,Wine - Red Oakridge Merlot,7,897,6279,20,7534.8
+BA4343,03-Feb-2020,27,INR,Gabvine,1,Bandage - Flexible Neon,7,1447,10129,20,12154.8
+BC3443,12-Aug-2020,66,INR,Browsetype,1,"Cheese - Brie, Triple Creme",9,1225,11025,20,13230
+CC4443,05-Jan-2021,87,INR,Kazio,1,"Croissant, Raw - Mini",3,1228,3684,20,4420.8
+CB4443,19-Jan-2020,18,INR,LiveZ,1,Scampi Tail,10,2309,23090,20,27708
+CC4434,20-Dec-2020,29,INR,Jayo,1,Country Roll,9,1771,15939,20,19126.8
+CB4414,10-Nov-2020,58,INR,Centimia,1,Lotus Rootlets - Canned,5,877,4385,20,5262
+AB4412,02-Feb-2020,80,INR,Yambee,1,"Mushroom - Chanterelle, Dry",10,1334,13340,20,16008
+BC4443,30-Sep-2020,58,INR,DabZ,1,"Beef - Rouladin, Sliced",5,2247,11235,20,13482
+CC4421,28-Jun-2020,46,INR,Yamia,1,Peas - Frozen,1,850,850,20,1020
+CC4432,04-Feb-2020,78,INR,Leexo,1,"Oranges - Navel, 72",4,1457,5828,20,6993.6
+CC3443,03-Nov-2020,35,INR,Edgeclub,1,Sobe - Green Tea,7,1606,11242,20,13490.4
+AC1341,12-Jan-2020,18,INR,Realmix,1,Shrimp - Prawn,10,685,6850,20,8220
+CB4414,28-Nov-2020,48,INR,Jaxworks,1,Shrimp - Black Tiger 16/20,6,960,5760,20,6912
+CB3323,20-Nov-2020,18,INR,Oba,1,Pork - Caul Fat,3,296,888,20,1065.6
+AC4444,18-Apr-2020,20,INR,Dynazzy,1,Beer - Paulaner Hefeweisse,8,937,7496,20,8995.2
+CB4324,23-Jul-2020,14,INR,Quinu,1,Water - Spring 1.5lit,4,626,2504,20,3004.8
+CC4433,01-Apr-2020,44,INR,Oozz,1,Cabbage - Red,8,2178,17424,20,20908.8
+BC4344,28-Jan-2020,30,INR,Mybuzz,1,Table Cloth 81x81 Colour,3,1337,4011,20,4813.2
+CC3434,16-Aug-2020,90,INR,Trudoo,1,Tuna - Yellowfin,6,1380,8280,20,9936
+BA4234,14-Dec-2020,66,INR,Skilith,1,Bread - 10 Grain Parisian,3,1391,4173,20,5007.6
+AB3134,27-Sep-2020,58,INR,Voolia,1,Lettuce - Lambs Mash,5,1956,9780,20,11736
+BC4341,21-Jul-2020,82,INR,Linklinks,1,Truffle Shells - White Chocolate,8,566,4528,20,5433.6
+BC3313,08-Feb-2021,46,INR,Plajo,1,Sproutsmustard Cress,10,2871,28710,20,34452
+CA4413,01-Oct-2020,15,INR,Skivee,1,Shiratamako - Rice Flour,10,2881,28810,20,34572
+AB1334,28-Sep-2020,75,INR,Katz,1,Pastry - Apple Large,10,892,8920,20,10704
+AC3444,24-Dec-2020,53,INR,Minyx,1,Ecolab Crystal Fusion,1,2715,2715,20,3258
+CB2444,13-Jan-2021,19,INR,Mymm,1,Food Colouring - Pink,2,1713,3426,20,4111.2
+CC2314,25-Jan-2020,65,INR,Chatterpoint,1,"Wine - Bourgogne 2002, La",1,2277,2277,20,2732.4
+CC4133,13-Feb-2021,38,INR,Agimba,1,Maintenance Removal Charge,4,2740,10960,20,13152
+CA4424,11-Jan-2021,89,INR,Yadel,1,Onions - Vidalia,10,1363,13630,20,16356
+CC1331,10-Oct-2020,18,INR,Dablist,1,Assorted Desserts,7,2187,15309,20,18370.8
+BA2443,23-Dec-2020,76,INR,Skimia,1,Foil - 4oz Custard Cup,10,1007,10070,20,12084
+CA4342,10-Jan-2021,17,INR,Oyoloo,1,"Tart Shells - Savory, 3",8,1150,9200,20,11040
+BB3443,07-Oct-2020,45,INR,Riffpath,1,Pur Source,5,2353,11765,20,14118
+BC4111,06-Feb-2021,11,INR,Mynte,1,"Squash - Pattypan, Yellow",4,1197,4788,20,5745.6
+CC1434,12-Feb-2020,17,INR,Ainyx,1,"Nestea - Ice Tea, Diet",4,2283,9132,20,10958.4
+CA4131,14-Dec-2020,7,INR,Wikido,1,Sour Puss Sour Apple,3,1664,4992,20,5990.4
+CC4344,02-Aug-2020,58,INR,Quaxo,1,Sorrel - Fresh,7,2930,20510,20,24612
+AB3414,05-Apr-2020,87,INR,Camido,1,Cocoa Butter,4,1151,4604,20,5524.8
+BA2233,24-Jan-2020,67,INR,Brainsphere,1,Sambuca - Ramazzotti,9,1535,13815,20,16578
+BB3143,10-Dec-2020,55,INR,Trudoo,1,"Salmon - Atlantic, Fresh, Whole",9,2939,26451,20,31741.2
+CA2433,27-May-2020,44,INR,Skalith,1,Lid - 3oz Med Rec,3,2488,7464,20,8956.8
+BC3133,23-Jun-2020,81,INR,Devify,1,Carbonated Water - Blackcherry,4,287,1148,20,1377.6
+CA1142,02-Jan-2020,58,INR,Fiveclub,1,Vodka - Moskovskaya,2,2220,4440,20,5328
+CC4142,08-Mar-2021,7,INR,Tekfly,1,Pepper - Roasted Red,1,1413,1413,20,1695.6
+AB1144,24-Dec-2020,22,INR,Zooveo,1,"Pepper - White, Whole",7,2319,16233,20,19479.6
+BC4244,31-May-2020,69,INR,Quinu,1,Chives - Fresh,10,1158,11580,20,13896
+BA2433,05-Feb-2020,84,INR,Thoughtworks,1,Wine - Rioja Campo Viejo,8,1118,8944,20,10732.8
+CC3414,10-Jun-2020,81,INR,Kazio,1,Wine - Sicilia Igt Nero Avola,7,716,5012,20,6014.4
+AC3334,19-Sep-2020,24,INR,Edgepulse,1,Fireball Whisky,5,300,1500,20,1800
+CB3123,05-Apr-2020,18,INR,Voonyx,1,Wine - Cotes Du Rhone Parallele,7,939,6573,20,7887.6
+CC3334,09-May-2020,88,INR,Edgepulse,1,Cheese - Parmigiano Reggiano,7,1466,10262,20,12314.4
+CA3344,03-Nov-2020,66,INR,Jayo,1,Glove - Cutting,3,708,2124,20,2548.8
+BB2234,04-Apr-2020,40,INR,Flashspan,1,Table Cloth 54x54 Colour,2,2145,4290,20,5148
+AC2443,26-Mar-2020,35,INR,Centidel,1,Extract - Rum,6,1301,7806,20,9367.2
+AB4434,08-May-2020,33,INR,Jabberbean,1,Dawn Professionl Pot And Pan,1,1471,1471,20,1765.2
+AB3313,14-Apr-2020,20,INR,Twitterlist,1,Pernod,3,2546,7638,20,9165.6
+BA4234,26-Oct-2020,25,INR,Wikizz,1,French Pastry - Mini Chocolate,10,2414,24140,20,28968
+CC1233,11-Apr-2020,11,INR,Jayo,1,Chicken - Whole,7,2832,19824,20,23788.8
+BA3424,11-May-2020,90,INR,Abatz,1,Vaccum Bag - 14x20,3,2284,6852,20,8222.4
+AA4434,29-May-2020,46,INR,Linkbridge,1,Bag Clear 10 Lb,1,2401,2401,20,2881.2
+BC1434,05-Dec-2020,58,INR,Buzzbean,1,Beans - French,10,2787,27870,20,33444
+CC4444,15-Jan-2020,66,INR,Gabtype,1,Zucchini - Yellow,5,348,1740,20,2088
+CB4244,07-Apr-2020,63,INR,Brainverse,1,Shiro Miso,3,588,1764,20,2116.8
+BB4441,28-May-2020,88,INR,Voonix,1,Onions - White,3,2718,8154,20,9784.8
+CC1443,12-Mar-2020,55,INR,Geba,1,Wine - Malbec Trapiche Reserve,2,228,456,20,547.2
+BC4144,20-Feb-2020,45,INR,Trupe,1,Tomatillo,7,825,5775,20,6930
+BA2414,06-Mar-2020,72,INR,Jabberbean,1,Bar Nature Valley,8,660,5280,20,6336
+AA1344,10-Mar-2021,32,INR,Meeveo,1,Shrimp - 150 - 250,4,2990,11960,20,14352
+CC4434,09-Sep-2020,14,INR,Avaveo,1,Beets,6,1998,11988,20,14385.6
+BC4143,08-Jan-2020,58,INR,Yata,1,Wine - Sogrape Mateus Rose,4,2000,8000,20,9600
+CC1343,13-May-2020,77,INR,Skimia,1,"Soup - Knorr, French Onion",3,1358,4074,20,4888.8
+CC2432,09-Jan-2021,41,INR,Jabberbean,1,Salt And Pepper Mix - White,2,2733,5466,20,6559.2
+CC1334,09-Oct-2020,32,INR,Cogilith,1,"Doilies - 7, Paper",3,1362,4086,20,4903.2
+CC3424,18-Feb-2021,25,INR,Jabbercube,1,Plasticspoonblack,4,2985,11940,20,14328
+BB1413,19-Jul-2020,42,INR,Tanoodle,1,Langers - Cranberry Cocktail,7,853,5971,20,7165.2
+CC1423,11-Jan-2021,75,INR,Flashset,1,"Stock - Beef, Brown",1,455,455,20,546
+CB3442,28-Jan-2021,42,INR,Chatterpoint,1,Soup - Campbells Chili,6,1410,8460,20,10152
+CC4444,17-Mar-2021,42,INR,Photobug,1,Breakfast Quesadillas,1,419,419,20,502.8
+CA3444,04-Apr-2020,37,INR,Jabbercube,1,"Bread - Dark Rye, Loaf",1,469,469,20,562.8
+BB4443,10-Jan-2020,21,INR,Photolist,1,Onions - Vidalia,7,474,3318,20,3981.6
+BC3411,08-Mar-2020,36,INR,Eayo,1,Soup - Campbells Beef Noodle,4,274,1096,20,1315.2
+CC4331,09-Feb-2020,10,INR,Gigazoom,1,Coffee - Irish Cream,1,2714,2714,20,3256.8
+CB3443,29-Feb-2020,52,INR,Centimia,1,Sea Bass - Whole,8,2456,19648,20,23577.6
+BC4444,22-Sep-2020,67,INR,Flashset,1,"Rosemary - Primerba, Paste",3,505,1515,20,1818
+CC4344,05-Sep-2020,24,INR,Devpulse,1,Rabbit - Legs,10,2275,22750,20,27300
+CB1442,30-May-2020,15,INR,Rhycero,1,Veal - Ground,2,1154,2308,20,2769.6
+BA2434,27-Jan-2021,17,INR,Plajo,1,Sauce - Soy Low Sodium - 3.87l,5,2368,11840,20,14208
+CB4424,05-Feb-2021,10,INR,Skimia,1,Godiva White Chocolate,8,346,2768,20,3321.6
+BA3314,12-Oct-2020,52,INR,Twitterbeat,1,Sansho Powder,1,731,731,20,877.2
+CB3444,08-Feb-2020,29,INR,Zoomcast,1,Dried Cranberries,2,580,1160,20,1392
+AC3134,04-Jan-2020,78,INR,Twimm,1,Oranges,3,2987,8961,20,10753.2
+CC3331,21-Jan-2020,60,INR,Kimia,1,Cookie - Oreo 100x2,10,1781,17810,20,21372
+BB4324,18-Mar-2020,59,INR,Dabfeed,1,Sobe - Tropical Energy,10,2130,21300,20,25560
+AC4443,25-Apr-2020,59,INR,Yabox,1,Bay Leaf Fresh,5,2352,11760,20,14112
+BC4344,17-Apr-2020,79,INR,Skipfire,1,Jolt Cola - Electric Blue,5,1823,9115,20,10938
+BA4234,20-Jun-2020,31,INR,Yodoo,1,Apple - Northern Spy,3,621,1863,20,2235.6
+CC3111,16-Sep-2020,63,INR,Fivebridge,1,"Mushrooms - Black, Dried",10,2614,26140,20,31368
+CC3344,03-Oct-2020,66,INR,Linkbridge,1,Lamb - Sausage Casings,4,1587,6348,20,7617.6
+BA1334,12-Apr-2020,74,INR,Dazzlesphere,1,Tomato Paste,8,2099,16792,20,20150.4
+BA2244,26-May-2020,49,INR,Yamia,1,Beef - Texas Style Burger,3,1017,3051,20,3661.2
+CB4324,12-May-2020,77,INR,Jabbersphere,1,Sesame Seed Black,2,254,508,20,609.6
+CB4333,20-Oct-2020,73,INR,Dabfeed,1,Pie Shells 10,1,223,223,20,267.6
+CC4434,11-Jun-2020,72,INR,Pixonyx,1,Prunes - Pitted,5,2697,13485,20,16182
+BA4444,18-Dec-2020,86,INR,Yamia,1,"Loaf Pan - 2 Lb, Foil",2,719,1438,20,1725.6
+BC1444,12-Feb-2020,70,INR,Gevee,1,"Bread - Roll, Calabrese",10,2269,22690,20,27228
+BC4444,19-Nov-2020,53,INR,Realbuzz,1,Pickles - Gherkins,6,2684,16104,20,19324.8
+BC3144,18-Apr-2020,36,INR,Brightbean,1,Beef - Rib Eye Aaa,5,1842,9210,20,11052
+CB2341,11-Mar-2020,70,INR,Brainlounge,1,Beef - Texas Style Burger,9,1078,9702,20,11642.4
+BC4343,17-Mar-2021,72,INR,Quimm,1,Jam - Apricot,10,1632,16320,20,19584
+AC4424,01-Mar-2021,17,INR,Divape,1,Fennel - Seeds,2,683,1366,20,1639.2
+CA4334,11-Feb-2020,40,INR,Cogilith,1,"Wine - White, Chardonnay",3,2193,6579,20,7894.8
+AC3343,01-Mar-2020,45,INR,Aimbu,1,"Mushroom - Shitake, Fresh",1,884,884,20,1060.8
+BA1341,10-Oct-2020,89,INR,Eazzy,1,Canadian Emmenthal,3,2789,8367,20,10040.4
+CB4443,11-Nov-2020,34,INR,Quatz,1,"Sauce - Soya, Light",3,2898,8694,20,10432.8
+CC4444,31-May-2020,76,INR,Oodoo,1,Sauce - Cranberry,5,2673,13365,20,16038
+BC3344,23-Oct-2020,10,INR,Tanoodle,1,"Nut - Pecan, Pieces",6,2617,15702,20,18842.4
+BA4433,14-Nov-2020,90,INR,Skippad,1,Cocoa Feuilletine,1,1838,1838,20,2205.6
+CC4434,22-Feb-2020,43,INR,Jetwire,1,Chutney Sauce,2,2884,5768,20,6921.6
+CC4421,27-Feb-2020,51,INR,Quimm,1,Cheese - Le Cheve Noir,10,2059,20590,20,24708
+CB3314,26-Oct-2020,66,INR,Bluezoom,1,"Pasta - Lasagne, Fresh",10,2186,21860,20,26232
+CB4441,23-Feb-2020,17,INR,Oyoba,1,"Soup - Campbells, Creamy",7,711,4977,20,5972.4
+BA4114,11-Sep-2020,32,INR,Tazz,1,Beef - Striploin Aa,8,832,6656,20,7987.2
+CC2144,19-Feb-2021,87,INR,Gigaclub,1,Beer - Fruli,6,362,2172,20,2606.4
+CC2243,14-Jun-2020,12,INR,Yodoo,1,Bread Base - Toscano,3,1438,4314,20,5176.8
+CA1144,13-Oct-2020,60,INR,Pixope,1,"Split Peas - Green, Dry",7,896,6272,20,7526.4
+AA4334,23-Jun-2020,45,INR,Linkbridge,1,"Crab - Back Fin Meat, Canned",7,2005,14035,20,16842
+CC4344,22-Apr-2020,14,INR,Avaveo,1,Cocktail Napkin Blue,1,2935,2935,20,3522
+AC4424,05-Mar-2021,9,INR,Pixoboo,1,Soup - Campbells,10,692,6920,20,8304
+AB1414,05-Jan-2020,55,INR,Vimbo,1,Wine - Cotes Du Rhone Parallele,5,1246,6230,20,7476
+AB1434,13-Aug-2020,46,INR,InnoZ,1,"Sauce - Black Current, Dry Mix",7,2324,16268,20,19521.6
+AC3312,21-Jun-2020,27,INR,Linkbridge,1,Pecan Raisin - Tarts,1,1442,1442,20,1730.4
+BC3444,09-Feb-2021,17,INR,Topicblab,1,Mcguinness - Blue Curacao,4,289,1156,20,1387.2
+CB4444,05-Feb-2020,20,INR,Tagpad,1,Coriander - Seed,8,1269,10152,20,12182.4
+CC4443,30-Dec-2020,29,INR,Realmix,1,Swordfish Loin Portions,10,2720,27200,20,32640
+CB2441,08-Jun-2020,85,INR,Tagtune,1,Tea - Apple Green Tea,7,1853,12971,20,15565.2
+CC4334,08-Dec-2020,58,INR,Voonix,1,Food Colouring - Red,4,2029,8116,20,9739.2
+AB4311,03-Jan-2020,10,INR,Voonte,1,Tomatoes - Grape,4,2338,9352,20,11222.4
+CA2432,30-Aug-2020,42,INR,Quamba,1,Wine - Red Oakridge Merlot,9,1180,10620,20,12744
+CB2414,30-Dec-2020,30,INR,Yakidoo,1,Cheese - Oka,1,1919,1919,20,2302.8
+CC4223,30-Sep-2020,43,INR,Jetwire,1,"Lettuce - Romaine, Heart",5,2321,11605,20,13926
+BB4244,01-Jul-2020,80,INR,Tagfeed,1,Bacon Strip Precooked,6,1462,8772,20,10526.4
+CB3141,11-Apr-2020,54,INR,BlogXS,1,Sprouts Dikon,4,1063,4252,20,5102.4
+CA4434,30-Jan-2020,58,INR,Npath,1,"Coffee - Colombian, Portioned",9,2784,25056,20,30067.2
+AC4444,29-Jul-2020,86,INR,Skynoodle,1,Cheese - Montery Jack,1,1628,1628,20,1953.6
+CB4431,26-Mar-2021,17,INR,Photojam,1,Cheese - Fontina,7,1159,8113,20,9735.6
+AC3444,16-Aug-2020,31,INR,Zooveo,1,Raspberries - Frozen,8,1942,15536,20,18643.2
+CC3434,10-Jun-2020,87,INR,Twitterworks,1,Bay Leaf Fresh,4,2575,10300,20,12360
+BA3414,19-Mar-2021,79,INR,Oyope,1,Yukon Jack,9,658,5922,20,7106.4
+AA4411,08-Sep-2020,14,INR,Skimia,1,Broom - Angled,7,419,2933,20,3519.6
+AC3312,28-Jan-2020,10,INR,Eadel,1,"Fish - Scallops, Cold Smoked",6,2548,15288,20,18345.6
+CC4343,28-Aug-2020,79,INR,Centizu,1,Towel Multifold,8,2733,21864,20,26236.8
+BC3444,14-Aug-2020,62,INR,Katz,1,Pear - Prickly,5,1392,6960,20,8352
+CA3244,28-Jun-2020,43,INR,Skipstorm,1,Schnappes Peppermint - Walker,7,865,6055,20,7266
+CC1443,04-Jun-2020,83,INR,Blogtag,1,Salmon Atl.whole 8 - 10 Lb,2,397,794,20,952.8
+AA2414,18-Aug-2020,48,INR,Chatterpoint,1,Bread Base - Gold Formel,2,1927,3854,20,4624.8
+CB4341,22-Nov-2020,41,INR,Twiyo,1,Jicama,10,1550,15500,20,18600
+AC4433,10-Mar-2021,46,INR,Feedmix,1,Tahini Paste,10,1755,17550,20,21060
+CC1433,16-Mar-2020,47,INR,Blogpad,1,Bread - Hamburger Buns,5,2971,14855,20,17826
+BB1343,18-Mar-2021,41,INR,Tagchat,1,"Cheese - Havarti, Salsa",3,638,1914,20,2296.8
+AC1412,26-Jan-2020,80,INR,Brainlounge,1,Pernod,10,1256,12560,20,15072
+CA3431,12-Jan-2021,52,INR,DabZ,1,Wine - Magnotta - Pinot Gris Sr,10,2830,28300,20,33960
+AA4141,04-Oct-2020,30,INR,Feedfire,1,Compound - Strawberry,8,1064,8512,20,10214.4
+BB3144,20-Mar-2020,75,INR,Babbleblab,1,"Coconut - Creamed, Pure",7,2060,14420,20,17304
+AA4312,13-Feb-2020,34,INR,Kayveo,1,Passion Fruit,4,2664,10656,20,12787.2
+CC4412,01-Mar-2020,63,INR,Riffwire,1,Bread Crumbs - Panko,8,914,7312,20,8774.4
+AC4141,18-May-2020,27,INR,Yozio,1,Country Roll,10,343,3430,20,4116
+BA3412,23-Oct-2020,58,INR,Jabbercube,1,Pickles - Gherkins,2,2396,4792,20,5750.4
+BC2434,01-Jul-2020,23,INR,Talane,1,"Flour - Corn, Fine",2,1726,3452,20,4142.4
+CC4243,21-Apr-2020,33,INR,Oyondu,1,Mushroom - Porcini Frozen,1,2755,2755,20,3306
+CA1344,21-Jun-2020,75,INR,Thoughtstorm,1,"Chilli Paste, Sambal Oelek",6,857,5142,20,6170.4
+CC3434,15-Dec-2020,33,INR,Twitterwire,1,Syrup - Pancake,4,1760,7040,20,8448
+CA1444,04-Apr-2020,24,INR,Wikizz,1,Lid - 0090 Clear,3,719,2157,20,2588.4
+CC4444,02-Jul-2020,42,INR,Gigabox,1,Pears - Bosc,10,815,8150,20,9780
+CB1443,21-Nov-2020,17,INR,Chatterbridge,1,Monkfish - Fresh,10,1014,10140,20,12168
+CC2414,02-Dec-2020,8,INR,Yodel,1,Shrimp - 31/40,1,1548,1548,20,1857.6
+CB4134,03-Mar-2020,70,INR,Linklinks,1,Wine - Delicato Merlot,8,1175,9400,20,11280
+CA4443,05-Feb-2021,85,INR,Jayo,1,Butter - Pod,10,286,2860,20,3432
+BC1344,17-Sep-2020,17,INR,Trupe,1,Bacardi Limon,2,1399,2798,20,3357.6
+AC3344,26-Feb-2020,26,INR,Skaboo,1,"Pasta - Rotini, Dry",10,884,8840,20,10608
+CA3442,02-Jan-2021,19,INR,Yombu,1,Wheat - Soft Kernal Of Wheat,1,2299,2299,20,2758.8
+BC3444,15-Feb-2020,45,INR,Voonyx,1,Pear - Asian,5,1594,7970,20,9564
+AC3312,08-Jun-2020,76,INR,Twinte,1,Bagelers,9,1166,10494,20,12592.8
+BA4433,09-Mar-2021,8,INR,Zoombeat,1,"Chicken - Base, Ultimate",9,1052,9468,20,11361.6
+CC3223,09-Jan-2021,54,INR,Miboo,1,Soupcontfoam16oz 116con,1,1867,1867,20,2240.4
+CA4342,12-Jan-2021,75,INR,Jabbersphere,1,Ginger - Ground,8,903,7224,20,8668.8
+BC4141,30-May-2020,12,INR,Skyvu,1,"Leeks - Baby, White",7,2272,15904,20,19084.8
+BC3324,14-Mar-2020,76,INR,Linkbridge,1,Tomatillo,5,2764,13820,20,16584
+BB3424,24-Apr-2020,60,INR,Buzzster,1,Chips - Doritos,4,2847,11388,20,13665.6
+CC3434,01-Oct-2020,21,INR,Zoozzy,1,Miso - Soy Bean Paste,9,207,1863,20,2235.6
+BA4433,17-Jul-2020,26,INR,Viva,1,Wine - Carmenere Casillero Del,8,2218,17744,20,21292.8
+CC4433,16-Feb-2020,51,INR,Kwilith,1,"Artichokes - Knobless, White",10,1036,10360,20,12432
+CB4433,30-Jan-2021,77,INR,Plambee,1,Juice - Orangina,4,1118,4472,20,5366.4
+BC4432,14-Feb-2021,40,INR,Voonder,1,Pear - Halves,4,2904,11616,20,13939.2
+BC1324,07-Jul-2020,77,INR,Browseblab,1,Smoked Tongue,3,2144,6432,20,7718.4
+CB4424,05-Dec-2020,7,INR,Linkbridge,1,Flavouring Vanilla Artificial,8,2142,17136,20,20563.2
+CC1414,07-Mar-2020,34,INR,Eadel,1,"Juice - Pineapple, 341 Ml",4,1411,5644,20,6772.8
+CA4444,04-Jan-2021,14,INR,Izio,1,"Water, Tap",10,2068,20680,20,24816
+BA3244,29-Sep-2020,11,INR,Rhynoodle,1,Kiwi,1,1669,1669,20,2002.8
+CC4444,12-Feb-2020,76,INR,Pixoboo,1,"Lamb - Leg, Bone In",9,1897,17073,20,20487.6
+CA4142,07-Sep-2020,58,INR,Vidoo,1,Milk - Skim,4,967,3868,20,4641.6
+AB3323,13-Oct-2020,26,INR,Centimia,1,Cranberries - Fresh,10,870,8700,20,10440
+AB3344,23-Jun-2020,75,INR,Shufflester,1,Wine - Sauvignon Blanc,2,1517,3034,20,3640.8
+CC2444,29-Feb-2020,80,INR,Geba,1,Rice Paper,1,2334,2334,20,2800.8
+CA2434,23-May-2020,81,INR,Edgewire,1,Beets - Golden,3,526,1578,20,1893.6
+AA3144,22-Jan-2020,47,INR,Yamia,1,Longos - Grilled Salmon With Bbq,8,1373,10984,20,13180.8
+BC4433,03-Jan-2021,57,INR,Abata,1,"Sparkling Wine - Rose, Freixenet",3,2848,8544,20,10252.8
+CB2424,26-Jun-2020,32,INR,Leexo,1,"Nut - Walnut, Chopped",6,2276,13656,20,16387.2
+AA4332,19-Aug-2020,18,INR,Edgeify,1,"Syrup - Monin, Amaretta",5,2011,10055,20,12066
+BA3443,21-Jul-2020,74,INR,Tagpad,1,Container - Hngd Cll Blk 7x7x3,4,494,1976,20,2371.2
+BA3332,25-Oct-2020,37,INR,Kwilith,1,Rice Paper,1,1483,1483,20,1779.6
+CA4133,23-Jan-2020,84,INR,Reallinks,1,Sauce - Caesar Dressing,9,1021,9189,20,11026.8
+AC2444,02-Dec-2020,33,INR,Wordify,1,Creme De Menth - White,7,2289,16023,20,19227.6
+CC1431,14-Dec-2020,31,INR,Kamba,1,Mustard - Pommery,3,1032,3096,20,3715.2
+CC2422,26-Sep-2020,88,INR,Leenti,1,Carbonated Water - Peach,4,332,1328,20,1593.6
+AC3444,03-Feb-2020,29,INR,Mycat,1,Beans - Kidney White,1,448,448,20,537.6
+CB4143,25-Apr-2020,28,INR,Feedfire,1,"Seedlings - Mix, Organic",7,1571,10997,20,13196.4
+AC3242,11-Jul-2020,30,INR,Oloo,1,Langers - Mango Nectar,8,365,2920,20,3504
+BB4341,14-Jan-2020,57,INR,Fanoodle,1,"Beef - Rib Roast, Capless",5,2991,14955,20,17946
+AC1334,24-Jan-2020,7,INR,Feednation,1,Apron,10,264,2640,20,3168
+AC4344,05-Jan-2020,33,INR,Skidoo,1,Steampan - Half Size Shallow,4,888,3552,20,4262.4
+BA3311,25-Apr-2020,38,INR,Vinte,1,Wine - Zinfandel California 2002,10,502,5020,20,6024
+AA3341,02-Oct-2020,32,INR,Yodo,1,Cheese - Cambozola,8,1377,11016,20,13219.2
+CA1344,13-Aug-2020,88,INR,Browsedrive,1,"Crush - Orange, 355ml",9,2363,21267,20,25520.4
+AC4143,25-Jul-2020,75,INR,Topiclounge,1,Cocktail Napkin Blue,1,1905,1905,20,2286
+CB3141,22-Jun-2020,76,INR,Dablist,1,Bread Foccacia Whole,1,471,471,20,565.2
+AC3414,16-Jun-2020,30,INR,Tazzy,1,"Wine - Harrow Estates, Vidal",8,2858,22864,20,27436.8
+CC4133,27-Jul-2020,27,INR,Snaptags,1,Chicken - White Meat With Tender,8,2831,22648,20,27177.6
+CA4332,26-Apr-2020,24,INR,Topicstorm,1,Cafe Royale,3,302,906,20,1087.2
+CA4144,16-Jul-2020,24,INR,Rhynyx,1,"Yogurt - Blueberry, 175 Gr",1,693,693,20,831.6
+AC3443,25-Mar-2020,40,INR,Yodo,1,Appetizer - Mango Chevre,7,1611,11277,20,13532.4
+BB4444,25-Mar-2021,12,INR,Latz,1,"Coke - Diet, 355 Ml",5,1896,9480,20,11376
+CB4444,14-Dec-2020,19,INR,Zava,1,Nantucket - 518ml,1,530,530,20,636
+CC3443,24-Nov-2020,83,INR,Edgeify,1,"Juice - Clam, 46 Oz",6,546,3276,20,3931.2
+CB4231,05-Feb-2021,30,INR,Leenti,1,Beef - Top Butt,6,2169,13014,20,15616.8
+CA1123,29-Apr-2020,52,INR,Linkbridge,1,Muffin Batt - Blueberry Passion,6,966,5796,20,6955.2
+BC4434,16-Feb-2020,62,INR,Fliptune,1,"Wine - Red, Colio Cabernet",8,1909,15272,20,18326.4
+BC4442,28-Aug-2020,40,INR,Eayo,1,Container - Clear 16 Oz,2,1906,3812,20,4574.4
+AC1431,11-Sep-2020,88,INR,Meezzy,1,Myers Planters Punch,3,1577,4731,20,5677.2
+BA4331,25-Aug-2020,59,INR,Kwilith,1,Bandage - Flexible Neon,8,2314,18512,20,22214.4
+BA4243,14-Feb-2020,78,INR,Youfeed,1,"Mushroom - Enoki, Dry",2,580,1160,20,1392
+CA2341,26-Feb-2020,46,INR,Tazz,1,Shrimp - Black Tiger 13/15,7,2812,19684,20,23620.8
+BC2441,03-Aug-2020,85,INR,Shufflester,1,"Pepper - Red, Finger Hot",5,484,2420,20,2904
+CB2433,17-May-2020,48,INR,Babbleset,1,"Stock - Beef, Brown",2,955,1910,20,2292
+AB4343,17-Feb-2021,66,INR,Jaxnation,1,Munchies Honey Sweet Trail Mix,2,1121,2242,20,2690.4
+BA4213,11-Apr-2020,52,INR,Chatterbridge,1,Coffee Swiss Choc Almond,3,212,636,20,763.2
+AB4444,09-Jan-2020,28,INR,Browsecat,1,Bread Fig And Almond,4,1461,5844,20,7012.8
+AC1443,15-Mar-2021,55,INR,Centidel,1,Tart - Butter Plain Squares,8,937,7496,20,8995.2
+CC3244,15-Jan-2020,89,INR,Viva,1,Soup - Campbells Tomato Ravioli,2,2659,5318,20,6381.6
+CC4242,27-Jan-2020,68,INR,Voolith,1,"Nut - Peanut, Roasted",4,1207,4828,20,5793.6
+CC4413,08-Jan-2020,64,INR,Shufflebeat,1,External Supplier,7,570,3990,20,4788
+AA4434,01-Feb-2021,65,INR,Skipfire,1,Ketchup - Tomato,7,1704,11928,20,14313.6
+AC4443,14-Mar-2021,57,INR,JumpXS,1,Nut - Macadamia,10,2543,25430,20,30516
+CC4144,04-Aug-2020,85,INR,Katz,1,Nut - Macadamia,10,2125,21250,20,25500
+CC4124,06-Jul-2020,17,INR,Twitterbeat,1,Chef Hat 25cm,3,1461,4383,20,5259.6
+CC4424,26-Jul-2020,40,INR,Oyoba,1,Bread - Ciabatta Buns,9,2963,26667,20,32000.4
+AA1234,17-Jan-2020,18,INR,Jabberstorm,1,Cheese - La Sauvagine,9,1587,14283,20,17139.6
+AC4442,09-Feb-2021,47,INR,Meembee,1,Sole - Fillet,7,398,2786,20,3343.2
+BA3144,09-Mar-2020,70,INR,Linkbridge,1,Evaporated Milk - Skim,10,1336,13360,20,16032
+AB4424,17-Mar-2021,47,INR,Skinder,1,Trout - Smoked,4,928,3712,20,4454.4
+BC3441,25-Nov-2020,76,INR,Skinix,1,Chickhen - Chicken Phyllo,9,1015,9135,20,10962
+CA4341,02-Feb-2020,67,INR,Photobug,1,Puree - Raspberry,2,2460,4920,20,5904
+BA4434,02-Dec-2020,49,INR,Skivee,1,"Soup - Beef, Base Mix",3,1474,4422,20,5306.4
+AA4424,23-Nov-2020,20,INR,Fanoodle,1,Wine - Jafflin Bourgongone,8,812,6496,20,7795.2
+BB4443,26-Aug-2020,13,INR,Demivee,1,Tea - Decaf 1 Cup,10,336,3360,20,4032
+BC2342,28-Jan-2020,48,INR,Meetz,1,Coffee - Almond Amaretto,8,2302,18416,20,22099.2
+CC4241,28-Dec-2020,12,INR,Aivee,1,Pork - Side Ribs,2,1297,2594,20,3112.8
+BA1344,05-Dec-2020,14,INR,Skidoo,1,"Lobster - Tail, 3 - 4 Oz",4,1665,6660,20,7992
+BA4444,05-Apr-2020,54,INR,Dabshots,1,Bread - Triangle White,8,1469,11752,20,14102.4
+AC4143,18-Feb-2020,58,INR,Brainlounge,1,Puree - Mocha,3,921,2763,20,3315.6
+CB4414,08-Nov-2020,10,INR,Gevee,1,"Vermouth - White, Cinzano",9,2956,26604,20,31924.8
+AA2434,08-Feb-2021,68,INR,Thoughtbeat,1,Wine - Gewurztraminer Pierre,7,2902,20314,20,24376.8
+CA4443,07-Sep-2020,42,INR,Trunyx,1,Bread - Corn Muffaleta Onion,8,2716,21728,20,26073.6
+AC3423,17-May-2020,61,INR,Twitterbeat,1,Beef - Diced,3,597,1791,20,2149.2
+AC4323,15-Aug-2020,89,INR,Jabberstorm,1,Soup - French Onion,9,714,6426,20,7711.2
+AC4324,20-Jan-2020,8,INR,Centimia,1,Chicken - Bones,4,629,2516,20,3019.2
+AA4241,04-May-2020,31,INR,Voolith,1,Steamers White,7,1816,12712,20,15254.4
+AB3333,16-Oct-2020,59,INR,Cogidoo,1,Spice - Onion Powder Granulated,9,738,6642,20,7970.4
+BC3444,18-May-2020,9,INR,Skiba,1,Pail For Lid 1537,10,2975,29750,20,35700
+BA3422,02-Oct-2020,90,INR,Photofeed,1,"Soup - Campbells, Spinach Crm",6,589,3534,20,4240.8
+CB1434,08-Nov-2020,70,INR,Rooxo,1,Butter Ripple - Phillips,2,1693,3386,20,4063.2
+CC4443,14-Feb-2020,76,INR,Buzzshare,1,Jameson - Irish Whiskey,10,552,5520,20,6624
+BC2333,20-May-2020,52,INR,Trupe,1,"Asparagus - White, Canned",6,551,3306,20,3967.2
+CA4444,28-May-2020,11,INR,Talane,1,Lamb - Rack,7,1652,11564,20,13876.8
+CA3444,14-Nov-2020,61,INR,Quatz,1,Chicken - Whole Roasting,7,2677,18739,20,22486.8
+AC4422,07-Apr-2020,7,INR,Kamba,1,"Nut - Walnut, Pieces",3,414,1242,20,1490.4
+AB4143,01-Apr-2020,12,INR,Avamm,1,Snapple Raspberry Tea,8,2306,18448,20,22137.6
+BC3444,18-Feb-2021,79,INR,Plajo,1,Drambuie,2,2468,4936,20,5923.2
+BB4444,27-Aug-2020,67,INR,Twitterbridge,1,"Syrup - Monin, Amaretta",1,1752,1752,20,2102.4
+AB2334,21-Dec-2020,37,INR,Youfeed,1,"Fish - Artic Char, Cold Smoked",2,1227,2454,20,2944.8
+AB3134,20-Aug-2020,15,INR,Bubbletube,1,Pepper - Green,10,2186,21860,20,26232
+CC1444,09-Mar-2020,42,INR,Topicstorm,1,Squash - Acorn,9,2688,24192,20,29030.4
+BA1411,29-Dec-2020,42,INR,Quire,1,Haggis,10,341,3410,20,4092
+CB4333,08-Jan-2021,36,INR,Chatterpoint,1,Energy Drink Red Bull,10,351,3510,20,4212
+BC3343,11-Jul-2020,57,INR,Divavu,1,Pork - Backfat,7,526,3682,20,4418.4
+AB3321,22-Mar-2021,41,INR,Oodoo,1,Lettuce - Frisee,3,2484,7452,20,8942.4
+CB4434,05-Jan-2021,37,INR,Zoonder,1,Pork - Backfat,7,1098,7686,20,9223.2
+AC4432,10-Jul-2020,17,INR,Wordify,1,Beer - Steamwhistle,1,1232,1232,20,1478.4
+AC2244,08-Nov-2020,37,INR,Oloo,1,Corn Syrup,10,203,2030,20,2436
+AC4244,21-Nov-2020,44,INR,Midel,1,"Veal - Shank, Pieces",8,317,2536,20,3043.2
+BC1343,30-Apr-2020,55,INR,Realbuzz,1,"Wine - Red, Lurton Merlot De",9,443,3987,20,4784.4
+AC2441,13-Jul-2020,37,INR,Photobean,1,"Soup - Knorr, Veg / Beef",1,1158,1158,20,1389.6
+CA3332,13-Oct-2020,13,INR,Mydeo,1,Juice - Lime,9,1517,13653,20,16383.6
+BC3441,25-Mar-2021,70,INR,Midel,1,Wine - Riesling Dr. Pauly,6,2024,12144,20,14572.8
+CA1444,11-Nov-2020,74,INR,Jayo,1,Wine - Puligny Montrachet A.,3,2574,7722,20,9266.4
+AC4441,09-Mar-2021,63,INR,Chatterpoint,1,Raspberries - Frozen,2,1798,3596,20,4315.2
+BA4444,04-Jun-2020,90,INR,Lazz,1,Chinese Foods - Plain Fried Rice,10,2405,24050,20,28860
+AA4441,03-Jan-2020,22,INR,Viva,1,Eggplant Oriental,1,2476,2476,20,2971.2
+AC1324,02-Dec-2020,54,INR,Yodel,1,Wine La Vielle Ferme Cote Du,7,1663,11641,20,13969.2
+BC4343,23-Mar-2021,34,INR,Oodoo,1,Cheese - Cambozola,6,1652,9912,20,11894.4
+CC4124,26-Jan-2021,14,INR,Zoonoodle,1,Iced Tea Concentrate,6,2630,15780,20,18936
+AC2124,20-Mar-2020,35,INR,Buzzdog,1,Bread Ww Cluster,5,394,1970,20,2364
+CC4444,07-Sep-2020,61,INR,Flipopia,1,"Crush - Grape, 355 Ml",6,530,3180,20,3816
+CB4442,25-Dec-2020,14,INR,Skivee,1,Lamb - Ground,10,1218,12180,20,14616
+BB3344,14-Feb-2020,24,INR,Quimm,1,Salt And Pepper Mix - White,3,1847,5541,20,6649.2
+CA3144,07-Jan-2021,29,INR,Jaxbean,1,Kellogs All Bran Bars,9,1573,14157,20,16988.4
+CC3433,29-Feb-2020,12,INR,Avamm,1,Lid Tray - 16in Dome,2,1224,2448,20,2937.6
+CA4443,03-Sep-2020,61,INR,Zoomdog,1,Paper - Brown Paper Mini Cups,6,2000,12000,20,14400
+AC4442,03-Aug-2020,44,INR,Lajo,1,Haggis,5,427,2135,20,2562
+AC4444,20-Apr-2020,44,INR,Livetube,1,Island Oasis - Raspberry,3,2704,8112,20,9734.4
+CB4331,14-Jan-2021,75,INR,Yambee,1,Isomalt,4,523,2092,20,2510.4
+BA4211,18-Feb-2021,16,INR,Dabfeed,1,Blueberries - Frozen,5,418,2090,20,2508
+BA3423,16-Jul-2020,24,INR,Flashdog,1,Flavouring - Rum,4,2219,8876,20,10651.2
+AB4443,17-Apr-2020,82,INR,Eabox,1,Turnip - Wax,3,2556,7668,20,9201.6
+AB3143,13-Jan-2021,12,INR,Yata,1,Olive - Spread Tapenade,9,908,8172,20,9806.4
+AA4334,26-Dec-2020,45,INR,Bluezoom,1,Banana - Green,3,1733,5199,20,6238.8
+CC4242,13-Nov-2020,9,INR,Topiczoom,1,Melon - Honey Dew,4,2180,8720,20,10464
+CA1342,04-May-2020,82,INR,Skajo,1,Wine - Pinot Noir Mondavi Coastal,2,1956,3912,20,4694.4
+CC2114,31-Jan-2021,34,INR,Voonyx,1,Flour - Chickpea,5,2056,10280,20,12336
+CC4313,25-Dec-2020,56,INR,Tagopia,1,Rabbit - Legs,5,2267,11335,20,13602
+BA4444,28-Jun-2020,90,INR,Nlounge,1,"Soup - Campbells, Chix Gumbo",5,2437,12185,20,14622
+AA3243,09-May-2020,32,INR,Einti,1,Lotus Rootlets - Canned,1,1478,1478,20,1773.6
+BC4132,13-May-2020,36,INR,Skiba,1,Truffle - Peelings,6,878,5268,20,6321.6
+CC3443,25-Aug-2020,34,INR,Flashpoint,1,Parsley - Fresh,5,905,4525,20,5430
+CA4413,20-Feb-2021,59,INR,Babbleopia,1,"Chilli Paste, Hot Sambal Oelek",1,1057,1057,20,1268.4
+CC2243,23-Oct-2020,87,INR,Gabspot,1,Milkettes - 2%,8,2145,17160,20,20592
+AC4221,12-Feb-2020,52,INR,Oyondu,1,Wine - German Riesling,9,1174,10566,20,12679.2
+BB4433,16-Jun-2020,86,INR,Meejo,1,Plums - Red,8,1984,15872,20,19046.4
+AB4434,03-Jan-2020,32,INR,Realcube,1,"Brocolinni - Gaylan, Chinese",1,2662,2662,20,3194.4
+BC4341,24-Oct-2020,88,INR,Yamia,1,Taro Leaves,10,1855,18550,20,22260
+AB2432,26-Jan-2021,78,INR,Jabbersphere,1,Tofu - Soft,9,761,6849,20,8218.8
+CA4344,04-May-2020,34,INR,Divavu,1,Squid U5 - Thailand,7,2872,20104,20,24124.8
+BC4242,18-Mar-2020,79,INR,Tekfly,1,Ketchup - Tomato,5,1464,7320,20,8784
+BB3342,10-Oct-2020,74,INR,Topicware,1,"Wine - Red, Metus Rose",6,531,3186,20,3823.2
+CC4443,19-Jul-2020,13,INR,Meedoo,1,"Oil - Truffle, White",1,1002,1002,20,1202.4
+CC4344,23-Jan-2021,54,INR,Teklist,1,"Gin - Gilbeys London, Dry",2,570,1140,20,1368
+AC3344,05-Jun-2020,68,INR,Lazzy,1,Temperature Recording Station,7,2323,16261,20,19513.2
+CA2441,01-Mar-2021,13,INR,Twitternation,1,"Quail - Eggs, Fresh",3,972,2916,20,3499.2
+CC3422,04-Mar-2020,55,INR,Teklist,1,"Tart Shells - Savory, 3",6,1813,10878,20,13053.6
+CA4334,09-Dec-2020,81,INR,Dazzlesphere,1,Gatorade - Lemon Lime,4,1257,5028,20,6033.6
+CC3444,23-Oct-2020,23,INR,Yadel,1,Pumpkin,1,227,227,20,272.4
+BC1443,20-Aug-2020,25,INR,Babbleset,1,Ham - Cooked Italian,3,1444,4332,20,5198.4
+AC4344,27-Oct-2020,47,INR,Trilia,1,"Cheese - Brie, Cups 125g",8,2912,23296,20,27955.2
+AB3422,31-Aug-2020,32,INR,Mymm,1,Jam - Raspberry,10,1804,18040,20,21648
+CC4424,01-Mar-2021,24,INR,Tagfeed,1,Wine - Barolo Fontanafredda,4,2221,8884,20,10660.8
+BC3444,12-Jul-2020,55,INR,Dynabox,1,Chickensplit Half,9,2711,24399,20,29278.8
+BB1441,11-Dec-2020,32,INR,Abata,1,Wine - Magnotta - Belpaese,4,2114,8456,20,10147.2
+CB4334,03-Oct-2020,66,INR,Oozz,1,Fork - Plastic,9,2789,25101,20,30121.2
+CC4343,23-Sep-2020,18,INR,Pixoboo,1,Lettuce - Baby Salad Greens,10,1362,13620,20,16344
+CB4444,01-Apr-2020,53,INR,Gigabox,1,"Wine - Red, Cabernet Merlot",7,2529,17703,20,21243.6
+AA4444,25-Jul-2020,11,INR,Quinu,1,Flower - Carnations,2,477,954,20,1144.8
+AC4432,03-Jan-2021,65,INR,Mita,1,Pear - Halves,2,972,1944,20,2332.8
+BC3134,23-May-2020,40,INR,Dablist,1,"Yogurt - Banana, 175 Gr",4,1164,4656,20,5587.2
+CA3442,29-Jul-2020,90,INR,Aibox,1,Wine - Casillero Del Diablo,8,829,6632,20,7958.4
+AB2413,13-Mar-2021,89,INR,Rooxo,1,Tea Peppermint,5,1174,5870,20,7044
+BC4441,10-Sep-2020,58,INR,Skimia,1,Isomalt,9,1653,14877,20,17852.4
+AC4444,19-Dec-2020,61,INR,Mudo,1,Magnotta - Bel Paese White,6,2268,13608,20,16329.6
+CC2113,10-Jan-2021,66,INR,Livetube,1,Bagels Poppyseed,6,881,5286,20,6343.2
+CC4424,18-May-2020,54,INR,Jetpulse,1,Pineapple - Golden,7,1273,8911,20,10693.2
+BA4444,03-Jul-2020,36,INR,Tagcat,1,Chicken - Whole Roasting,4,1273,5092,20,6110.4
+AC4333,27-Jan-2020,69,INR,Flipopia,1,Syrup - Chocolate,2,2581,5162,20,6194.4
+AC3134,22-Aug-2020,56,INR,Agivu,1,Vaccum Bag 10x13,9,247,2223,20,2667.6
+CC2241,18-Jul-2020,62,INR,Flashdog,1,Tequila - Sauza Silver,10,1920,19200,20,23040
+AC4133,10-Jun-2020,57,INR,Brightbean,1,Puree - Mango,3,744,2232,20,2678.4
+AC1334,07-Jan-2020,42,INR,Twitterbridge,1,Beer - Pilsner Urquell,8,2654,21232,20,25478.4
+CA1424,11-May-2020,49,INR,Brightdog,1,Sauce - Mint,8,852,6816,20,8179.2
+BB4344,18-Aug-2020,54,INR,Skiptube,1,Wine - Tio Pepe Sherry Fino,2,2622,5244,20,6292.8
+BC4444,02-Feb-2021,19,INR,Devpulse,1,Kumquat,2,1234,2468,20,2961.6
+AC3444,20-Feb-2020,39,INR,Innojam,1,Island Oasis - Pina Colada,9,1576,14184,20,17020.8
+CC4441,09-Sep-2020,70,INR,Topiclounge,1,Flour - So Mix Cake White,3,1423,4269,20,5122.8
+BC4344,31-Jan-2021,57,INR,Jayo,1,Chick Peas - Canned,5,2211,11055,20,13266
+CC3312,26-Oct-2020,63,INR,Divanoodle,1,Sansho Powder,3,456,1368,20,1641.6
+BC4244,26-Sep-2020,21,INR,Realfire,1,Container Clear 8 Oz,4,2024,8096,20,9715.2
+AA4414,09-Dec-2020,73,INR,Mydeo,1,Pate Pans Yellow,2,1042,2084,20,2500.8
+CA4344,19-Jan-2020,18,INR,Blogspan,1,Chocolate Bar - Reese Pieces,10,1125,11250,20,13500
+CB4412,01-Mar-2020,18,INR,Bubbletube,1,Coffee - Irish Cream,3,871,2613,20,3135.6
+BC2434,17-Aug-2020,73,INR,Youspan,1,Pie Shells 10,10,2093,20930,20,25116
+CB3414,29-Jan-2020,82,INR,Devbug,1,Bacardi Breezer - Strawberry,9,1996,17964,20,21556.8
+CB4344,04-Apr-2020,89,INR,Fanoodle,1,Water - Evian 355 Ml,2,1309,2618,20,3141.6
+AC1424,11-Jun-2020,90,INR,Meevee,1,Rosemary - Fresh,7,1861,13027,20,15632.4
+AA3434,13-Oct-2020,25,INR,InnoZ,1,Calypso - Black Cherry Lemonade,1,1062,1062,20,1274.4
+BC3234,15-Apr-2020,59,INR,Pixoboo,1,Octopus,1,2758,2758,20,3309.6
+CB4443,07-Feb-2020,23,INR,Gabvine,1,Potatoes - Mini White 3 Oz,7,2539,17773,20,21327.6
+CC4343,28-Jun-2020,22,INR,Dabjam,1,"Tarragon - Primerba, Paste",10,2352,23520,20,28224
+AA2234,25-Mar-2020,56,INR,Lajo,1,Sobe - Liz Blizz,4,1928,7712,20,9254.4
+AC3443,18-Oct-2020,86,INR,Youopia,1,Sauce - Fish 25 Ozf Bottle,10,1970,19700,20,23640
+CC1133,30-Oct-2020,52,INR,Quinu,1,Mushroom - Chanterelle Frozen,1,312,312,20,374.4
+CC3232,10-Apr-2020,80,INR,Jabbersphere,1,Cookie Dough - Oatmeal Rasin,10,2669,26690,20,32028
+BC4243,31-Dec-2020,47,INR,Avavee,1,Wine - Fino Tio Pepe Gonzalez,4,1156,4624,20,5548.8
+BB3212,13-Mar-2020,83,INR,Babblestorm,1,Momiji Oroshi Chili Sauce,8,585,4680,20,5616
+CB4134,13-Nov-2020,79,INR,Brightdog,1,True - Vue Containers,1,2801,2801,20,3361.2
+BB4341,10-Dec-2020,39,INR,Dablist,1,"Beets - Candy Cane, Organic",4,1612,6448,20,7737.6
+AC4341,18-Jan-2020,79,INR,Twitterlist,1,Vaccum Bag 10x13,9,298,2682,20,3218.4
+CA1443,14-Mar-2020,29,INR,Skynoodle,1,Wine - Casillero Del Diablo,9,913,8217,20,9860.4
+AA3422,19-Feb-2021,56,INR,Realbridge,1,Juice - Prune,3,2485,7455,20,8946
+CB4342,30-Sep-2020,52,INR,Ainyx,1,Cake - Mini Cheesecake,10,1608,16080,20,19296
+CB4323,08-Feb-2020,77,INR,Twiyo,1,Nantucket - Orange Mango Cktl,8,934,7472,20,8966.4
+BB4344,14-Jan-2021,33,INR,Avavee,1,Vinegar - Red Wine,8,2679,21432,20,25718.4
+CC1113,11-Jun-2020,15,INR,Thoughtsphere,1,Oil - Avocado,8,1414,11312,20,13574.4
+BC2444,04-Jan-2020,78,INR,Skivee,1,Bread - Calabrese Baguette,7,1164,8148,20,9777.6
+BA2134,04-May-2020,50,INR,Chatterbridge,1,"Sprite, Diet - 355ml",4,1543,6172,20,7406.4
+BA4422,09-Aug-2020,83,INR,Bluejam,1,Steampan - Lid For Half Size,9,2036,18324,20,21988.8
+BB3244,11-Jul-2020,40,INR,Devpulse,1,Tomatoes Tear Drop,9,341,3069,20,3682.8
+BB3413,16-Oct-2020,90,INR,Realpoint,1,"Sauce - Bernaise, Mix",5,1936,9680,20,11616
+BA3143,02-Sep-2020,88,INR,Quinu,1,Oil - Macadamia,7,1251,8757,20,10508.4
+AC1342,03-Mar-2020,25,INR,Blogspan,1,Bamboo Shoots - Sliced,4,1852,7408,20,8889.6
+CB2413,04-Jun-2020,32,INR,Dynazzy,1,Pastry - Raisin Muffin - Mini,10,2226,22260,20,26712
+CC3334,17-May-2020,15,INR,Izio,1,Sun - Dried Tomatoes,7,2117,14819,20,17782.8
+AC1344,19-Nov-2020,12,INR,InnoZ,1,"Glass - Wine, Plastic, Clear 5 Oz",4,1934,7736,20,9283.2
+BC1424,22-Feb-2020,55,INR,Dazzlesphere,1,"Pasta - Penne, Rigate, Dry",1,1750,1750,20,2100
+BA4433,02-Feb-2020,64,INR,Skajo,1,Kaffir Lime Leaves,5,1927,9635,20,11562
+BC4234,30-Mar-2020,36,INR,Edgeclub,1,Goulash Seasoning,10,735,7350,20,8820
+CA4331,24-Feb-2020,79,INR,Vinder,1,Bread - Italian Corn Meal Poly,10,1969,19690,20,23628
+AA1442,14-Jul-2020,51,INR,Twitterworks,1,Beef - Striploin Aa,6,1645,9870,20,11844
+CC3434,25-Aug-2020,65,INR,Youfeed,1,"Bread - Dark Rye, Loaf",3,632,1896,20,2275.2
+AB4444,22-Sep-2020,15,INR,Devcast,1,"Trout - Rainbow, Frozen",7,2526,17682,20,21218.4
+BC4243,24-Mar-2021,58,INR,Eabox,1,Oil - Cooking Spray,1,1268,1268,20,1521.6
+BC1444,13-Jun-2020,82,INR,Dynazzy,1,"Pepper - White, Ground",9,2542,22878,20,27453.6
+CC4343,04-Mar-2021,83,INR,Skippad,1,Mussels - Frozen,8,1383,11064,20,13276.8
+BC1223,15-Jun-2020,24,INR,InnoZ,1,Yokaline,9,2955,26595,20,31914
+AB4422,06-Jul-2020,32,INR,Rhyzio,1,"Clams - Littleneck, Whole",3,2754,8262,20,9914.4
+CB4334,29-Jan-2021,26,INR,Flashpoint,1,Tart - Lemon,2,1733,3466,20,4159.2
+CC1444,23-Nov-2020,8,INR,Wordpedia,1,Muffin - Carrot Individual Wrap,3,1084,3252,20,3902.4
+CA4333,19-Feb-2021,35,INR,Cogilith,1,Tea Peppermint,4,661,2644,20,3172.8
+CC3413,11-Mar-2021,19,INR,Zazio,1,Wine - Delicato Merlot,7,1142,7994,20,9592.8
+AC4234,03-Mar-2020,53,INR,Viva,1,Juice - Apple 284ml,1,1857,1857,20,2228.4
+BB4434,03-Dec-2020,19,INR,Chatterbridge,1,Wine - Gato Negro Cabernet,5,631,3155,20,3786
+CC4411,19-Apr-2020,57,INR,Mybuzz,1,Veal - Loin,1,2873,2873,20,3447.6
+AA4132,13-Jul-2020,28,INR,Tagchat,1,Coffee - Espresso,6,1102,6612,20,7934.4
+CB3413,31-May-2020,35,INR,Gabtune,1,Scallops - Live In Shell,1,1741,1741,20,2089.2
+AC3324,10-Jul-2020,88,INR,Buzzdog,1,"Olives - Black, Pitted",5,2456,12280,20,14736
+AC3433,18-Nov-2020,45,INR,Dynabox,1,Food Colouring - Pink,1,629,629,20,754.8
+CC3434,20-Apr-2020,53,INR,Zoombox,1,Cheese - Victor Et Berthold,8,2557,20456,20,24547.2
+AC3424,12-Dec-2020,12,INR,Brainlounge,1,"Wine - Red, Black Opal Shiraz",10,2814,28140,20,33768
+CA3444,16-Jan-2020,25,INR,Trilith,1,Wine - George Duboeuf Rose,8,2369,18952,20,22742.4
+BC4332,28-Mar-2020,33,INR,Eadel,1,Cookie - Oatmeal,4,229,916,20,1099.2
+CC1443,22-Aug-2020,76,INR,Edgeblab,1,Peach - Fresh,9,2438,21942,20,26330.4
+AC4441,16-Aug-2020,73,INR,Meemm,1,Jameson - Irish Whiskey,10,2447,24470,20,29364
+AB1412,24-Nov-2020,67,INR,Skyble,1,"Marsala - Sperone, Fine, D.o.c.",2,916,1832,20,2198.4
+CA2133,27-Nov-2020,23,INR,Youspan,1,Truffle - Peelings,1,220,220,20,264
+BC4432,22-Aug-2020,57,INR,Skiba,1,"Asparagus - White, Canned",3,1003,3009,20,3610.8
+AB4444,20-Jan-2021,51,INR,Meevee,1,"Radish - Black, Winter, Organic",7,2719,19033,20,22839.6
+AB4444,19-Sep-2020,46,INR,Yotz,1,"Wine - Bourgogne 2002, La",3,1475,4425,20,5310
+CA4441,30-Jul-2020,80,INR,Yakidoo,1,Icecream Cone - Areo Chocolate,2,1697,3394,20,4072.8
+BB3434,18-Jan-2020,79,INR,Realcube,1,Alize Sunset,3,2259,6777,20,8132.4
+CC1433,03-Jul-2020,76,INR,Voomm,1,Goat - Leg,2,1444,2888,20,3465.6
+AA3443,14-Apr-2020,63,INR,Kwinu,1,"Ice - Clear, 300 Lb For Carving",2,2352,4704,20,5644.8
+CC4424,11-Mar-2020,86,INR,Linkbuzz,1,Sauce - Hollandaise,2,1973,3946,20,4735.2
+AC1331,30-Jan-2020,11,INR,Centimia,1,Cumin - Whole,5,2208,11040,20,13248
+BC3434,19-Jul-2020,63,INR,Wordpedia,1,Blueberries - Frozen,4,2525,10100,20,12120
+CA4443,01-Oct-2020,40,INR,Einti,1,Table Cloth 81x81 White,9,1184,10656,20,12787.2
+CB3343,27-Jan-2020,44,INR,Jabbercube,1,Coriander - Seed,7,1422,9954,20,11944.8
+BC3143,14-Sep-2020,33,INR,Quatz,1,Bar Mix - Lime,7,2910,20370,20,24444
+BA3444,26-Feb-2021,53,INR,Youspan,1,Pork - European Side Bacon,6,1654,9924,20,11908.8
+BA4443,08-Feb-2021,42,INR,Dabshots,1,Cookies Almond Hazelnut,8,858,6864,20,8236.8
+CC4434,03-Apr-2020,9,INR,Dablist,1,Cake - Mini Potato Pancake,10,2117,21170,20,25404
+AC4441,24-Aug-2020,55,INR,Quinu,1,Sauce - Cranberry,1,2048,2048,20,2457.6
+BA4414,03-Aug-2020,60,INR,Feedmix,1,Cheese - Pied De Vents,2,528,1056,20,1267.2
+CB4334,02-Feb-2020,87,INR,Youbridge,1,Filling - Mince Meat,3,2180,6540,20,7848
+CB3441,29-Jul-2020,44,INR,Youopia,1,Coffee - Frthy Coffee Crisp,10,2695,26950,20,32340
+CC2143,02-Nov-2020,78,INR,Skyba,1,Tequila Rose Cream Liquor,4,806,3224,20,3868.8
+BB1244,24-Apr-2020,66,INR,Thoughtworks,1,Crackers - Melba Toast,9,2734,24606,20,29527.2
+CC1144,06-Nov-2020,64,INR,Jaxworks,1,Chickensplit Half,1,2503,2503,20,3003.6
+CC1444,30-Jan-2021,39,INR,Zooveo,1,Jameson Irish Whiskey,3,581,1743,20,2091.6
+CC3224,15-Mar-2020,23,INR,Yombu,1,Ice Cream - Vanilla,10,853,8530,20,10236
+BA3434,26-Mar-2020,72,INR,Skiba,1,Sorrel - Fresh,1,2271,2271,20,2725.2
+CB3344,27-Feb-2020,78,INR,Feednation,1,Pork - Liver,4,512,2048,20,2457.6
+BA3334,16-Jan-2021,39,INR,Gabvine,1,Nantucket - Kiwi Berry Cktl.,5,687,3435,20,4122
+CB4434,29-Mar-2020,64,INR,Vinder,1,"Wine - White, Colubia Cresh",7,1163,8141,20,9769.2
+CA2434,29-Jan-2020,7,INR,Innotype,1,Soho Lychee Liqueur,5,1140,5700,20,6840
+CC4413,01-Mar-2020,9,INR,Realcube,1,Limes,9,806,7254,20,8704.8
+AB1132,21-Jun-2020,81,INR,Jayo,1,Ostrich - Prime Cut,10,814,8140,20,9768
+BA4413,11-Feb-2020,45,INR,Eidel,1,"Nut - Chestnuts, Whole",3,581,1743,20,2091.6
+CC2344,10-Jan-2020,56,INR,Mita,1,Steampan - Half Size Shallow,10,1736,17360,20,20832
+AC4444,17-Oct-2020,25,INR,Jabbersphere,1,Bread Cranberry Foccacia,10,2383,23830,20,28596
+BC4334,11-Jun-2020,11,INR,Skiba,1,Chocolate Bar - Reese Pieces,4,2105,8420,20,10104
+BC1214,05-Jan-2021,22,INR,Wikido,1,Beer - Original Organic Lager,8,1495,11960,20,14352
+CA4434,14-Jan-2021,65,INR,Realpoint,1,Guinea Fowl,1,2940,2940,20,3528
+BC3414,21-Sep-2020,62,INR,Dynava,1,"Fish - Artic Char, Cold Smoked",5,1227,6135,20,7362
+BC4412,18-Sep-2020,7,INR,Fadeo,1,Beef - Cow Feet Split,6,1130,6780,20,8136
+CC4442,14-Apr-2020,15,INR,Mynte,1,Grapes - Red,8,2363,18904,20,22684.8
+AC1134,09-Mar-2020,73,INR,Rhyzio,1,Soup Campbells - Tomato Bisque,5,1239,6195,20,7434
+CC4144,29-Sep-2020,86,INR,Abata,1,Sauce - Marinara,10,2184,21840,20,26208
+AB1434,28-Jul-2020,69,INR,Voonte,1,Wine - Zinfandel Rosenblum,9,209,1881,20,2257.2
+BA4434,30-May-2020,78,INR,Midel,1,Oil - Canola,5,681,3405,20,4086
+BC4242,03-Apr-2020,38,INR,DabZ,1,Pimento - Canned,9,2147,19323,20,23187.6
+CA2244,01-Jun-2020,80,INR,Camimbo,1,"Arctic Char - Fresh, Whole",8,263,2104,20,2524.8
+AB4144,25-Sep-2020,59,INR,Jaxbean,1,Sauce - Hoisin,8,737,5896,20,7075.2
+AC4331,27-Apr-2020,76,INR,Dabfeed,1,"Chestnuts - Whole,canned",6,2700,16200,20,19440
+CC3242,07-Jan-2020,16,INR,Mynte,1,Compound - Raspberry,1,2204,2204,20,2644.8
+CA3344,12-Feb-2020,72,INR,Twiyo,1,Glaze - Clear,1,950,950,20,1140
+CB1433,29-Apr-2020,42,INR,Twinder,1,Appetizer - Cheese Bites,3,1069,3207,20,3848.4
+AB4443,09-Mar-2020,67,INR,Feednation,1,Wine - Chianti Classico Riserva,2,1460,2920,20,3504
+CA3444,18-Apr-2020,67,INR,Bubblebox,1,"Shrimp - 16/20, Iqf, Shell On",4,510,2040,20,2448
+CB4144,01-Feb-2021,67,INR,Wordpedia,1,Pectin,8,2577,20616,20,24739.2
+AB3134,21-Sep-2020,17,INR,Dabshots,1,Olives - Morracan Dired,8,1307,10456,20,12547.2
+CA2444,16-Jul-2020,67,INR,Meetz,1,"Wine - White, Mosel Gold",3,2440,7320,20,8784
+CC4334,28-Feb-2020,70,INR,Zooxo,1,Beef - Ground Lean Fresh,6,1243,7458,20,8949.6
+BB3424,13-May-2020,89,INR,Devbug,1,Bar Bran Honey Nut,8,1793,14344,20,17212.8
+CB4444,16-Mar-2020,65,INR,Rhyloo,1,Ecolab - Lime - A - Way 4/4 L,5,2802,14010,20,16812
+AC2432,15-Jan-2021,11,INR,Katz,1,Cookie - Dough Variety,3,530,1590,20,1908
+BB4313,25-Mar-2020,88,INR,Gigaclub,1,Cherries - Frozen,7,405,2835,20,3402
+CC4331,01-Aug-2020,77,INR,Buzzshare,1,Butter Balls Salted,7,964,6748,20,8097.6
+BA3344,08-Jun-2020,67,INR,Browseblab,1,Scallops 60/80 Iqf,1,620,620,20,744
+CA3421,09-Apr-2020,30,INR,Yata,1,Tea Peppermint,3,2573,7719,20,9262.8
+CB2344,30-Apr-2020,26,INR,Linkbridge,1,Crackers - Melba Toast,9,2049,18441,20,22129.2
+BA3441,15-Feb-2020,17,INR,Mudo,1,Anisette - Mcguiness,6,241,1446,20,1735.2
+CC4113,25-Apr-2020,89,INR,Agimba,1,Higashimaru Usukuchi Soy,1,1467,1467,20,1760.4
+CC2444,17-Oct-2020,84,INR,Jaxspan,1,Rosemary - Fresh,1,1979,1979,20,2374.8
+CC4441,22-Feb-2021,62,INR,Quinu,1,Crush - Cream Soda,8,872,6976,20,8371.2
+AC4413,09-Dec-2020,16,INR,Oloo,1,Snapple Lemon Tea,9,2048,18432,20,22118.4
+AC4222,21-Oct-2020,69,INR,Meedoo,1,Cheese - Camembert,7,1331,9317,20,11180.4
