@@ -1,7 +1,9 @@
 from fpdf import FPDF
+import pandas as pd
 
 
 class PDF(FPDF):
+
     def header(self):
         # Logo
         # self.image('logo.jpg', 10, 8,33)
@@ -23,25 +25,25 @@ class PDF(FPDF):
         # Page number
         self.cell(0, 10, 'Page ' + str(self.page_no()) + '/{nb}', 0, 0, 'C')
 
-    def company(self):
+    def company(self, companyName):
         self.set_font('Arial', 'B', 12)
         self.cell(5)
-        self.cell(60, 10, 'Apple Corporation US', 1, 0, 'C')
+        self.cell(60, 10, companyName, 1, 0, 'C')
         self.ln(15)
 
-    def headerDetails(self):
+    def headerDetails(self, invoiceNumber, invoiceDate, paymentTerms, invoiceCurrency):
         self.set_font('Arial', 'B', 8)
         self.cell(130)
-        self.cell(60, 5, 'Invoice Number - ', 1, 0, 'L')
+        self.cell(60, 5, f'Invoice Number - {invoiceNumber}', 1, 0, 'L')
         self.ln()
         self.cell(130)
-        self.cell(60, 5, 'Invoice Date - ', 1, 0, 'L')
+        self.cell(60, 5, f'Invoice Date - {invoiceDate}', 1, 0, 'L')
         self.ln()
         self.cell(130)
-        self.cell(60, 5, 'Payment Terms - ', 1, 0, 'L')
+        self.cell(60, 5, f'Payment Terms - {paymentTerms}', 1, 0, 'L')
         self.ln()
         self.cell(130)
-        self.cell(60, 5, 'Invoice Currency - ', 1, 0, 'L')
+        self.cell(60, 5, f'Invoice Currency - {invoiceCurrency}', 1, 0, 'L')
         self.ln(20)
 
     def lineTable(self):
@@ -53,37 +55,46 @@ class PDF(FPDF):
         self.cell(35, 5, 'Line Amount', 1, 0, 'C')
         self.ln()
 
-    def lineDetails(self):
+    def lineDetails(self, lineNumber, item, quantity, amount, lineAmount):
         self.set_font('Arial', '', 8)
-        self.cell(15, 5, '1', 1, 0, 'C')
-        self.cell(90, 5, 'New Avanger Game', 1, 0, 'C')
-        self.cell(20, 5, '1', 1, 0, 'C')
-        self.cell(20, 5, '120', 1, 0, 'C')
-        self.cell(35, 5, '120', 1, 0, 'C')
+        self.cell(15, 5, lineNumber, 1, 0, 'C')
+        self.cell(90, 5, item, 1, 0, 'C')
+        self.cell(20, 5, quantity, 1, 0, 'C')
+        self.cell(20, 5, amount, 1, 0, 'C')
+        self.cell(35, 5, lineAmount, 1, 0, 'C')
         self.ln(20)
 
-    def footerDetails(self):
+    def footerDetails(self, vat, invoiceAmount):
         self.set_font('Arial', 'B', 10)
         self.cell(110)
         self.cell(40, 5, 'VAT : ', 1, 0, 'L')
-        self.cell(20, 5, '20%', 1, 0, 'R')
+        self.cell(20, 5, f'{vat}%', 1, 0, 'R')
         self.ln()
         self.cell(110)
         self.cell(40, 5, 'Invoice Amount : ', 1, 0, 'L')
-        self.cell(20, 5, '12345', 1, 0, 'R')
+        self.cell(20, 5, invoiceAmount, 1, 0, 'R')
 
 
-# Instantiation of inherited class
-pdf = PDF()
-pdf.alias_nb_pages()
-pdf.add_page()
-pdf.company()
-pdf.headerDetails()
-pdf.lineTable()
-pdf.lineDetails()
-pdf.footerDetails()
-pdf.set_font('Times', '', 12)
-# pdf.cell(1,1,'Hello')
-# for i in range(1, 41):
-#     pdf.cell(0, 10, 'Printing line number ' + str(i), 0, 1)
-pdf.output('tuto2.pdf', 'F')
+if __name__ == "__main__":
+    df = pd.read_csv('MOCK_DATA.csv', index_col=False)
+    # print(df.head(5))
+    fileNumber = 0
+
+    for index, rows in df.iterrows():
+        invoiceList = [rows["Invoice Number"], rows["Invoice Date"], rows["Payment Terms"], rows["Invoice Currency"], rows["Company Name"],
+                       rows["Line Number"], rows["Item Name"], rows["Quantity"], rows["Amount"], rows["Total Amount"], rows["VAT"], rows["Invoice Amount"]]
+        fileNumber += 1
+        # Instantiation of inherited class
+        pdf = PDF()
+        pdf.alias_nb_pages()
+        pdf.add_page()
+        pdf.company(invoiceList[4])
+        pdf.headerDetails(
+            invoiceList[0], invoiceList[1], str(invoiceList[2]), invoiceList[3])
+        pdf.lineTable()
+        pdf.lineDetails(str(invoiceList[5]), invoiceList[6],
+                        str(invoiceList[7]), str(invoiceList[8]), str(invoiceList[9]))
+        pdf.footerDetails(str(invoiceList[10]), str(invoiceList[11]))
+        fileName = f"/home/krushna/Documents/Krushna/Projects/InvoiceManagement/PDFFiles/INV{fileNumber}.pdf"
+        pdf.output(fileName, 'F')
+        print(f"PDF {fileNumber} created..")
