@@ -1,7 +1,7 @@
 # Data Engineering Portfolio
 
 
-## Invoice Management Pipeline in Azure
+## Invoice Management Pipeline in Azure (https://github.com/kvborkar100/data-engineering-portfolio/tree/main/invoice-management-pipeline)
 Portfolio project for invoice management pipeline using Azure services.
 
 ![Invoice Management Architecture](invoice-management-pipeline/Invoice-Management-Architecture.png)
