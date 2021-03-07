@@ -3,7 +3,7 @@ Portfolio project for invoice management pipeline using Azure services.
 
 ![Invoice Management Architecture](Invoice-Management-Architecture.png)
 
-This portfolio project is used to ingest invoice data from multiple sources and made available to azure SQL database.
+This portfolio project is implemetation demostrate the invoice management pipeline to precess invoices from multiple sources and made available to azure SQL database.
 
 Technologies used - 
 -  Azure Data Factory
